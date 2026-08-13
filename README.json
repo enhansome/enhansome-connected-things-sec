@@ -1,0 +1,1913 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Hardware Attacks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Interface Attacks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Memory Extraction"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Side-Channel and Fault Injection"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fuzzing, Binary Analysis, IoT Security Collection",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-21T10:02:19Z",
+            "owner": "0xricksanchez",
+            "repo": "paper_collection",
+            "stars": 1362
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Attacks on Implementations of Secure Systems",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-01-06T16:17:09Z",
+            "owner": "Yossioren",
+            "repo": "AttacksonImplementationsCourseBook",
+            "stars": 241
+          }
+        }
+      ],
+      "title": "Fundamentals"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Wireless Protocols"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Bluetooth / BLE"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Bluetooth Security",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-10-03T22:06:03Z",
+            "owner": "engn33r",
+            "repo": "awesome-bluetooth-security",
+            "stars": 611
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BLE-NullBlr: Step by Step Guide to BLE Understanding and Exploiting",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-08-26T13:11:30Z",
+            "owner": "V33RU",
+            "repo": "BLE-NullBlr",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Fundamentals"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AirDrop Leak - Sniffing BLE Traffic from Apple Devices",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-05T05:35:30Z",
+            "owner": "hexway",
+            "repo": "apple_bleee",
+            "stars": 2182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlueDucky - HID Injection on Unpatched Android (CVE-2023-45866)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-11T00:03:00Z",
+            "owner": "pentestfunctions",
+            "repo": "BlueDucky",
+            "stars": 1886
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BLUFFS: Bluetooth Forward and Future Secrecy Attacks (CVE-2023-24023)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-24T07:45:27Z",
+            "owner": "francozappa",
+            "repo": "bluffs",
+            "stars": 523
+          }
+        }
+      ],
+      "title": "Vulnerability Research"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "bettercap",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T14:44:23Z",
+            "owner": "bettercap",
+            "repo": "bettercap",
+            "stars": 19778
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BTLEjack - BLE Swiss Army Knife",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-04T20:31:17Z",
+            "owner": "virtualabs",
+            "repo": "btlejack",
+            "stars": 2104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bluing - Intelligence Gathering for Bluetooth",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-23T09:44:31Z",
+            "owner": "fO-000",
+            "repo": "bluing",
+            "stars": 1017
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crackle - Cracking BLE Encryption",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-08-26T08:56:39Z",
+            "owner": "mikeryan",
+            "repo": "crackle",
+            "stars": 968
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BtleJuice - Bluetooth Smart MITM Framework",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-10-03T06:26:53Z",
+            "owner": "DigitalSecurity",
+            "repo": "btlejuice",
+            "stars": 850
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GATTacker",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-01-31T05:53:09Z",
+            "owner": "securing",
+            "repo": "gattacker",
+            "stars": 843
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlueToolkit - Bluetooth Classic Vulnerability Testing",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-03-05T20:53:27Z",
+            "owner": "sgxgsx",
+            "repo": "BlueToolkit",
+            "stars": 721
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ESP32 Bluetooth Classic Sniffer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-05-10T08:26:44Z",
+            "owner": "Matheus-Garbelini",
+            "repo": "esp32_bluetooth_classic_sniffer",
+            "stars": 599
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BrakTooth ESP32 PoC",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-31T14:54:50Z",
+            "owner": "Matheus-Garbelini",
+            "repo": "braktooth_esp32_bluetooth_classic_attacks",
+            "stars": 577
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "btproxy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-02-24T12:54:20Z",
+            "owner": "conorpp",
+            "repo": "btproxy",
+            "stars": 541
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SweynTooth BLE Attacks",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-11-23T00:18:26Z",
+            "owner": "Matheus-Garbelini",
+            "repo": "sweyntooth_bluetooth_low_energy_attacks",
+            "stars": 333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bluetooth Hacking Collection",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-11T07:38:34Z",
+            "owner": "zedxpace",
+            "repo": "bluetooth-hacking-",
+            "stars": 182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DEDSEC Bluetooth Exploit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-01T18:30:03Z",
+            "owner": "0xbitx",
+            "repo": "DEDSEC-Bluetooth-exploit",
+            "stars": 37
+          }
+        }
+      ],
+      "title": "Tools - Software"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "InternalBlue - Bluetooth Experimentation Framework",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-21T15:45:36Z",
+            "owner": "seemoo-lab",
+            "repo": "internalblue",
+            "stars": 784
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ice9-bluetooth-sniffer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-29T23:35:55Z",
+            "owner": "mikeryan",
+            "repo": "ice9-bluetooth-sniffer",
+            "stars": 432
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Zigbee / Z-Wave"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Killerbee",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-09-12T09:39:25Z",
+            "owner": "riverloopsec",
+            "repo": "killerbee",
+            "stars": 845
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZigDiggity",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-09-13T19:18:14Z",
+            "owner": "BishopFox",
+            "repo": "zigdiggity",
+            "stars": 298
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Z3sec",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-12-22T23:39:38Z",
+            "owner": "IoTsec",
+            "repo": "Z3sec",
+            "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zigbear",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-02-08T16:24:16Z",
+            "owner": "philippnormann",
+            "repo": "zigbear",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zigator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-06T23:00:22Z",
+            "owner": "akestoridis",
+            "repo": "zigator",
+            "stars": 35
+          }
+        }
+      ],
+      "title": "Tools - Software"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LAF - LoRaWAN Auditing Framework",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-22T22:31:26Z",
+            "owner": "IOActive",
+            "repo": "laf",
+            "stars": 187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChirpOTLE - LoRaWAN Security Framework",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-02-11T18:57:07Z",
+            "owner": "seemoo-lab",
+            "repo": "chirpotle",
+            "stars": 41
+          }
+        }
+      ],
+      "title": "LoRa / LoRaWAN"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Matter / Thread"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Cellular Hacking",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-21T11:14:33Z",
+            "owner": "W00t3k",
+            "repo": "Awesome-Cellular-Hacking",
+            "stars": 3975
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open5GS - Open Source 5G/4G Core",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T00:01:44Z",
+            "owner": "open5gs",
+            "repo": "open5gs",
+            "stars": 2680
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LTE Sniffer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-10-23T16:48:32Z",
+            "owner": "SysSec-KAIST",
+            "repo": "LTESniffer",
+            "stars": 2216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "srsRAN 5G - Open Source 5G Stack",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2026-06-01T07:10:58Z",
+            "owner": "srsran",
+            "repo": "srsRAN_Project",
+            "stars": 1095
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "5G NR Jamming, Spoofing and Sniffing",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-06T14:30:47Z",
+            "owner": "aligungr",
+            "repo": "UERANSIM",
+            "stars": 1042
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "5Ghoul - 5G NR Attacks and Fuzzing",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-11T01:04:19Z",
+            "owner": "asset-group",
+            "repo": "5ghoul-5g-nr-attacks",
+            "stars": 690
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SCAT - Signaling Collection and Analysis Tool for Cellular",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-19T23:17:49Z",
+            "owner": "fgsect",
+            "repo": "scat",
+            "stars": 524
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SigPloit - Telecom Signaling Exploitation Framework",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2019-12-17T16:51:23Z",
+            "owner": "SigPloiter",
+            "repo": "SigPloit",
+            "stars": 383
+          }
+        }
+      ],
+      "title": "Cellular (GSM/LTE/5G)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Wi-Fi"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TETRA Decoder - Open Source TETRA Receiver",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-01-24T22:13:16Z",
+            "owner": "sq5bpf",
+            "repo": "telive",
+            "stars": 332
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Practical TETRA Sniffing with SDR",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-08-05T11:25:45Z",
+            "owner": "sq5bpf",
+            "repo": "osmo-tetra-sq5bpf",
+            "stars": 63
+          }
+        }
+      ],
+      "title": "TETRA"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Firmware Security"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "IoT Security Verification Standard (ISVS)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2026-08-02T21:00:26Z",
+            "owner": "OWASP",
+            "repo": "IoT-Security-Verification-Standard-ISVS",
+            "stars": 157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hands-on Firmware Extraction, Exploration, and Emulation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-02T08:34:41Z",
+            "owner": "onekey-sec",
+            "repo": "firmware-workshop",
+            "stars": 59
+          }
+        }
+      ],
+      "title": "Fundamentals"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Binwalk v3",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T15:27:34Z",
+            "owner": "ReFirmLabs",
+            "repo": "binwalk",
+            "stars": 14223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unblob - Extraction Framework",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T04:32:54Z",
+            "owner": "onekey-sec",
+            "repo": "unblob",
+            "stars": 2539
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Checksec.sh",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-04T20:22:50Z",
+            "owner": "slimm609",
+            "repo": "checksec",
+            "stars": 2363
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FACT - Firmware Analysis and Comparison Tool",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T11:57:56Z",
+            "owner": "fkie-cad",
+            "repo": "FACT_core",
+            "stars": 1456
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Firmwalker",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-08-29T18:20:21Z",
+            "owner": "craigz28",
+            "repo": "firmwalker",
+            "stars": 1220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fwanalyzer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-10-08T15:26:40Z",
+            "owner": "cruise-automation",
+            "repo": "fwanalyzer",
+            "stars": 516
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BINSEC",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2026-06-30T20:08:38Z",
+            "owner": "binsec",
+            "repo": "binsec",
+            "stars": 417
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fwhunt-scan - UEFI Firmware Analysis",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-02T18:17:19Z",
+            "owner": "binarly-io",
+            "repo": "fwhunt-scan",
+            "stars": 243
+          }
+        }
+      ],
+      "title": "Static Analysis Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Unicorn Engine - CPU Emulator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-30T16:17:57Z",
+            "owner": "unicorn-engine",
+            "repo": "unicorn",
+            "stars": 9229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qiling Framework",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-22T14:09:44Z",
+            "owner": "qilingframework",
+            "repo": "qiling",
+            "stars": 6052
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PANDA - Architecture-Neutral Dynamic Analysis",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-29T03:11:37Z",
+            "owner": "panda-re",
+            "repo": "panda",
+            "stars": 2773
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Renode - Embedded Systems Emulator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "RobotFramework",
+            "last_commit": "2026-08-12T18:43:43Z",
+            "owner": "renode",
+            "repo": "renode",
+            "stars": 2719
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Firmadyne - Automated Firmware Emulation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-07-21T00:21:54Z",
+            "owner": "firmadyne",
+            "repo": "firmadyne",
+            "stars": 2097
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bochs - x86 Emulator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T20:28:54Z",
+            "owner": "bochs-emu",
+            "repo": "Bochs",
+            "stars": 1349
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FirmAE - Firmware Analysis and Emulation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-24T15:34:02Z",
+            "owner": "pr0v3rbs",
+            "repo": "FirmAE",
+            "stars": 907
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FirmWire - Baseband Firmware Emulation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-11T00:22:02Z",
+            "owner": "FirmWire",
+            "repo": "FirmWire",
+            "stars": 874
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Avatar2 - Dynamic Firmware Analysis",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-31T20:51:49Z",
+            "owner": "avatartwo",
+            "repo": "avatar2",
+            "stars": 574
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "S2E - Selective Symbolic Execution",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-24T10:55:15Z",
+            "owner": "S2E",
+            "repo": "s2e",
+            "stars": 524
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SymQEMU",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-05-05T11:51:15Z",
+            "owner": "eurecom-s3",
+            "repo": "symqemu",
+            "stars": 375
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HALucinator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-10-06T12:03:54Z",
+            "owner": "embedded-sec",
+            "repo": "halucinator",
+            "stars": 166
+          }
+        }
+      ],
+      "title": "Dynamic Analysis and Emulation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "OTA Update Security"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "RTOS Security"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ghidra",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-10T17:01:50Z",
+            "owner": "NationalSecurityAgency",
+            "repo": "ghidra",
+            "stars": 72305
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frida - Dynamic Instrumentation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Meson",
+            "last_commit": "2026-08-12T22:46:11Z",
+            "owner": "frida",
+            "repo": "frida",
+            "stars": 21614
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cutter - GUI for Radare2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-03T14:25:20Z",
+            "owner": "rizinorg",
+            "repo": "cutter",
+            "stars": 19456
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Angr - Binary Analysis",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T10:05:35Z",
+            "owner": "angr",
+            "repo": "angr",
+            "stars": 9009
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RetDec - Decompiler",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-26T09:04:25Z",
+            "owner": "avast",
+            "repo": "retdec",
+            "stars": 8604
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Diaphora - Binary Diffing",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-29T10:29:59Z",
+            "owner": "joxeankoret",
+            "repo": "diaphora",
+            "stars": 4364
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ret-sync",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-15T09:12:10Z",
+            "owner": "bootleg",
+            "repo": "ret-sync",
+            "stars": 2370
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ghidriff - Ghidra Binary Diffing Engine",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-11T23:16:00Z",
+            "owner": "clearbluejar",
+            "repo": "ghidriff",
+            "stars": 804
+          }
+        }
+      ],
+      "title": "Reverse Engineering Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Secure Boot"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Network and Web Protocols"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Scapy CoAP Plugin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T12:18:39Z",
+            "owner": "secdev",
+            "repo": "scapy",
+            "stars": 12466
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libcoap CLI Tools",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T15:09:03Z",
+            "owner": "obgm",
+            "repo": "libcoap",
+            "stars": 918
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Copper - Firefox CoAP Plugin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-10-18T17:43:50Z",
+            "owner": "mkovatsc",
+            "repo": "Copper",
+            "stars": 95
+          }
+        }
+      ],
+      "title": "Tools - Software"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "mTLS"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Cloud and Backend Security"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Prowler - Cloud Security Assessment",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T14:21:37Z",
+            "owner": "prowler-cloud",
+            "repo": "prowler",
+            "stars": 14577
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ScoutSuite - Multi-cloud Security Auditing",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-23T18:33:52Z",
+            "owner": "nccgroup",
+            "repo": "ScoutSuite",
+            "stars": 7788
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pacu - AWS Exploitation Framework",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-19T22:31:37Z",
+            "owner": "RhinoSecurityLabs",
+            "repo": "pacu",
+            "stars": 5303
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "S3Scanner - Leaky Bucket Discovery",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-03T13:45:56Z",
+            "owner": "sa7mon",
+            "repo": "S3Scanner",
+            "stars": 3162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CloudFox - Cloud Attack Paths",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-26T14:47:00Z",
+            "owner": "BishopFox",
+            "repo": "cloudfox",
+            "stars": 2553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cloudfoxable Labs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-01T21:21:58Z",
+            "owner": "BishopFox",
+            "repo": "cloudfoxable",
+            "stars": 468
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AWS Security Pentesting Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-07-21T05:10:28Z",
+            "owner": "redskycyber",
+            "repo": "Cloud-Security",
+            "stars": 304
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Mobile Application Security"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Industrial and Automotive"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Vehicle Security",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-30T00:29:18Z",
+            "owner": "jaredthecoder",
+            "repo": "awesome-vehicle-security",
+            "stars": 4443
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome CAN Bus - Curated Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-07T22:14:43Z",
+            "owner": "iDoka",
+            "repo": "awesome-canbus",
+            "stars": 3384
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Subaru Head Unit Jailbreak",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-09-28T03:14:36Z",
+            "owner": "sgayou",
+            "repo": "subaru-starlink-research",
+            "stars": 599
+          }
+        }
+      ],
+      "title": "Automotive Security"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Payment Systems"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NullSec Flipper Suite",
+          "description": "Flipper Zero payload collection for RF, RFID/NFC, BadUSB, infrared and wireless pentesting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-11T21:34:33Z",
+            "owner": "bad-antics",
+            "repo": "nullsec-flipper-suite",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PineFlip",
+          "description": "Flipper Zero companion app for Linux with screen mirroring, file manager and firmware management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-03-05T05:38:35Z",
+            "owner": "bad-antics",
+            "repo": "pineflip",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Flipper Zero"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Software Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RouterSploit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-05T14:02:26Z",
+            "owner": "threat9",
+            "repo": "routersploit",
+            "stars": 13215
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PRET - Printer Exploitation Toolkit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-02T01:18:28Z",
+            "owner": "RUB-NDS",
+            "repo": "PRET",
+            "stars": 4296
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Firmware Analysis Toolkit (FAT)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-16T17:58:06Z",
+            "owner": "attify",
+            "repo": "firmware-analysis-toolkit",
+            "stars": 1582
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HomePwn",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-27T15:37:06Z",
+            "owner": "Telefonica",
+            "repo": "HomePWN",
+            "stars": 932
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HAL - Hardware Analyzer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T14:24:07Z",
+            "owner": "emsec",
+            "repo": "hal",
+            "stars": 816
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ISF - Industrial Security Framework",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-10-09T08:02:43Z",
+            "owner": "w3h",
+            "repo": "isf",
+            "stars": 257
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PENIOT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-02-22T14:29:13Z",
+            "owner": "yakuza8",
+            "repo": "peniot",
+            "stars": 234
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlueSploit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-27T06:14:01Z",
+            "owner": "V33RU",
+            "repo": "bluesploit",
+            "stars": 89
+          }
+        }
+      ],
+      "title": "Exploitation Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Syzkaller - Kernel Fuzzer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T21:38:48Z",
+            "owner": "google",
+            "repo": "syzkaller",
+            "stars": 6297
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Boofuzz",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T20:36:50Z",
+            "owner": "jtpereyda",
+            "repo": "boofuzz",
+            "stars": 2355
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "parking-game-fuzzer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-09-11T12:41:42Z",
+            "owner": "addisoncrump",
+            "repo": "parking-game-fuzzer",
+            "stars": 84
+          }
+        }
+      ],
+      "title": "Fuzzing Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Google Fuzzing Forum",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2024-10-24T14:45:24Z",
+            "owner": "google",
+            "repo": "fuzzing",
+            "stars": 3780
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FuzzingPaper Collection",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-19T17:46:12Z",
+            "owner": "wcventure",
+            "repo": "FuzzingPaper",
+            "stars": 2766
+          }
+        }
+      ],
+      "title": "Fundamentals"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dr. Memory",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-12-13T03:36:14Z",
+            "owner": "DynamoRIO",
+            "repo": "drmemory",
+            "stars": 2739
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AFL Training Exercises",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-10-12T11:23:26Z",
+            "owner": "mykter",
+            "repo": "afl-training",
+            "stars": 1283
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frankenstein - Broadcom/Cypress Firmware Emulation for Fuzzing",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-02-07T21:31:59Z",
+            "owner": "seemoo-lab",
+            "repo": "frankenstein",
+            "stars": 465
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AttifyOS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-08-26T13:31:13Z",
+            "owner": "adi0x90",
+            "repo": "attifyos",
+            "stars": 1036
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Instant GNU Radio OS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2024-05-27T06:11:46Z",
+            "owner": "bastibl",
+            "repo": "instant-gnuradio",
+            "stars": 188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EmbedOS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-10-21T15:55:24Z",
+            "owner": "scriptingxss",
+            "repo": "EmbedOS",
+            "stars": 160
+          }
+        }
+      ],
+      "title": "Pentesting Operating Systems"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Defensive Security"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Learning Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "THC's favourite Tips, Tricks & Hacks",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-06-30T08:39:47Z",
+            "owner": "hackerschoice",
+            "repo": "thc-tips-tricks-hacks-cheat-sheet",
+            "stars": 3861
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pentest Hardware Handbook",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-05-29T17:51:57Z",
+            "owner": "unprovable",
+            "repo": "PentestHardware",
+            "stars": 506
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hardware Hacking Cheatsheet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-02-19T09:08:36Z",
+            "owner": "arunmagesh",
+            "repo": "hw_hacking_cheatsheet",
+            "stars": 157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nmap Tutorial",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-07-31T19:14:49Z",
+            "owner": "gnebbia",
+            "repo": "nmap_tutorial",
+            "stars": 121
+          }
+        }
+      ],
+      "title": "Cheatsheets"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Books"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Labs and CTFs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ARM-X CTF",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-22T12:38:13Z",
+            "owner": "therealsaumil",
+            "repo": "emux",
+            "stars": 871
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BLE CTF",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-07T15:55:23Z",
+            "owner": "hackgnar",
+            "repo": "ble_ctf",
+            "stars": 775
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DVRF - Damn Vulnerable Router Firmware",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2021-04-07T22:27:40Z",
+            "owner": "praetorian-inc",
+            "repo": "DVRF",
+            "stars": 720
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DVID - Damn Vulnerable IoT Device",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-02-12T20:22:55Z",
+            "owner": "Vulcainreo",
+            "repo": "DVID",
+            "stars": 225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IoTGoat - Vulnerable OpenWrt Firmware",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-03-29T23:18:00Z",
+            "owner": "scriptingxss",
+            "repo": "IoTGoat",
+            "stars": 182
+          }
+        }
+      ],
+      "title": "Vulnerable Applications"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RHme-2016",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-28T22:11:50Z",
+            "owner": "Riscure",
+            "repo": "Rhme-2016",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RHme-2017",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-28T22:21:07Z",
+            "owner": "Riscure",
+            "repo": "Rhme-2017",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Hardware CTFs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Research and Community"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Device-Specific Research"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "MCP / AI Agent"
+    },
+    {
+      "description": "Contributions welcome. Submit a PR with new resources following the existing structure.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "This collection is provided for educational and research purposes.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:38:40.566Z",
+    "original_repository": "V33RU/awesome-connected-things-sec",
+    "original_repository_sha": "dddaa7c0cd6ce47c6fc523637d1ca9973edc1c04",
+    "enhanced_repository": "enhansome/enhansome-connected-things-sec",
+    "enhanced_repository_description": null,
+    "title": "Awesome connected things sec with stars"
+  }
+}
