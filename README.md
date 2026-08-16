@@ -407,7 +407,7 @@
 
 #### Vulnerability Research
 
-* [AirDrop Leak - Sniffing BLE Traffic from Apple Devices](https://github.com/hexway/apple_bleee) ⭐ 2,182 | 🐛 26 | 🌐 Python | 📅 2023-10-05
+* [AirDrop Leak - Sniffing BLE Traffic from Apple Devices](https://github.com/hexway/apple_bleee) ⭐ 2,183 | 🐛 26 | 🌐 Python | 📅 2023-10-05
 * [BlueDucky - HID Injection on Unpatched Android (CVE-2023-45866)](https://github.com/pentestfunctions/BlueDucky) ⭐ 1,886 | 🐛 78 | 🌐 Python | 📅 2026-02-11
 * [BLUFFS: Bluetooth Forward and Future Secrecy Attacks (CVE-2023-24023)](https://github.com/francozappa/bluffs) ⭐ 523 | 🐛 3 | 🌐 Python | 📅 2024-01-24
 * [Finding Bugs in Bluetooth](https://bluetooth.lol/)
@@ -427,9 +427,9 @@
 
 #### Tools - Software
 
-* [bettercap](https://github.com/bettercap/bettercap) ⭐ 19,795 | 🐛 44 | 🌐 Go | 📅 2026-08-13
+* [bettercap](https://github.com/bettercap/bettercap) ⭐ 19,803 | 🐛 44 | 🌐 Go | 📅 2026-08-13
 * [BTLEjack - BLE Swiss Army Knife](https://github.com/virtualabs/btlejack) ⭐ 2,104 | 🐛 28 | 🌐 Python | 📅 2024-08-04
-* [Bluing - Intelligence Gathering for Bluetooth](https://github.com/fO-000/bluing) ⭐ 1,016 | 🐛 14 | 🌐 Python | 📅 2023-04-23
+* [Bluing - Intelligence Gathering for Bluetooth](https://github.com/fO-000/bluing) ⭐ 1,015 | 🐛 14 | 🌐 Python | 📅 2023-04-23
 * [crackle - Cracking BLE Encryption](https://github.com/mikeryan/crackle) ⭐ 967 | 🐛 6 | 🌐 C | 📅 2021-08-26
 * [BtleJuice - Bluetooth Smart MITM Framework](https://github.com/DigitalSecurity/btlejuice) ⚠️ Archived
 * [GATTacker](https://github.com/securing/gattacker) ⭐ 843 | 🐛 18 | 🌐 JavaScript | 📅 2022-01-31
@@ -542,14 +542,14 @@
 
 ### Cellular (GSM/LTE/5G)
 
-* [Awesome Cellular Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking/) ⭐ 3,978 | 🐛 2 | 📅 2026-03-21
-* [Open5GS - Open Source 5G/4G Core](https://github.com/open5gs/open5gs) ⭐ 2,684 | 🐛 284 | 🌐 C | 📅 2026-08-14
-* [LTE Sniffer](https://github.com/SysSec-KAIST/LTESniffer) ⭐ 2,216 | 🐛 25 | 🌐 C++ | 📅 2024-10-23
+* [Awesome Cellular Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking/) ⭐ 3,980 | 🐛 2 | 📅 2026-03-21
+* [Open5GS - Open Source 5G/4G Core](https://github.com/open5gs/open5gs) ⭐ 2,684 | 🐛 286 | 🌐 C | 📅 2026-08-14
+* [LTE Sniffer](https://github.com/SysSec-KAIST/LTESniffer) ⭐ 2,215 | 🐛 25 | 🌐 C++ | 📅 2024-10-23
 * [srsRAN 5G - Open Source 5G Stack](https://github.com/srsran/srsRAN_Project) ⚠️ Archived
 * [5G NR Jamming, Spoofing and Sniffing](https://github.com/aligungr/UERANSIM) ⭐ 1,042 | 🐛 243 | 🌐 C++ | 📅 2026-07-06
 * [5Ghoul - 5G NR Attacks and Fuzzing](https://github.com/asset-group/5ghoul-5g-nr-attacks) ⭐ 690 | 🐛 17 | 🌐 C++ | 📅 2026-03-11
 * [SCAT - Signaling Collection and Analysis Tool for Cellular](https://github.com/fgsect/scat) ⭐ 524 | 🐛 16 | 🌐 Python | 📅 2026-06-19
-* [SigPloit - Telecom Signaling Exploitation Framework](https://github.com/SigPloiter/SigPloit) ⭐ 385 | 🐛 60 | 🌐 Java | 📅 2019-12-17
+* [SigPloit - Telecom Signaling Exploitation Framework](https://github.com/SigPloiter/SigPloit) ⭐ 387 | 🐛 60 | 🌐 Java | 📅 2019-12-17
 * [Introduction to GSM Security](http://www.pentestingexperts.com/introduction-to-gsm-security/)
 * [Breaking LTE on Layer Two](https://alter-attack.net/)
 * [Exploiting CSN.1 Bugs in MediaTek Basebands](https://labs.taszk.io/articles/post/mtk_baseband_csn1_exploitation/)
@@ -641,7 +641,7 @@
 
 ### Fundamentals
 
-* [IoT Security Verification Standard (ISVS)](https://github.com/OWASP/IoT-Security-Verification-Standard-ISVS) ⭐ 157 | 🐛 18 | 🌐 TeX | 📅 2026-08-02
+* [IoT Security Verification Standard (ISVS)](https://github.com/OWASP/IoT-Security-Verification-Standard-ISVS) ⭐ 158 | 🐛 18 | 🌐 TeX | 📅 2026-08-02
 * [Hands-on Firmware Extraction, Exploration, and Emulation](https://github.com/onekey-sec/BHEU23-firmware-workshop) ⭐ 59 | 🐛 0 | 🌐 Python | 📅 2026-07-02
 * [Introduction to Firmware Analysis - OWASP](https://www.owasp.org/index.php/IoT_Firmware_Analysis)
 * [OWASP Firmware Security Testing Methodology](https://scriptingxss.gitbook.io/firmware-security-testing-methodology/)
@@ -658,8 +658,8 @@
 
 ### Static Analysis Tools
 
-* [Binwalk v3](https://github.com/ReFirmLabs/binwalk) ⭐ 14,230 | 🐛 92 | 🌐 Rust | 📅 2026-08-11
-* [unblob - Extraction Framework](https://github.com/onekey-sec/unblob) ⭐ 2,539 | 🐛 42 | 🌐 Python | 📅 2026-08-10
+* [Binwalk v3](https://github.com/ReFirmLabs/binwalk) ⭐ 14,233 | 🐛 92 | 🌐 Rust | 📅 2026-08-11
+* [unblob - Extraction Framework](https://github.com/onekey-sec/unblob) ⭐ 2,541 | 🐛 42 | 🌐 Python | 📅 2026-08-10
 * [Checksec.sh](https://github.com/slimm609/checksec.sh) ⭐ 2,363 | 🐛 3 | 🌐 Go | 📅 2026-08-04
 * [FACT - Firmware Analysis and Comparison Tool](https://github.com/fkie-cad/FACT_core) ⭐ 1,456 | 🐛 138 | 🌐 Python | 📅 2026-08-13
 * [Firmwalker](https://github.com/craigz28/firmwalker) ⭐ 1,221 | 🐛 5 | 🌐 Shell | 📅 2023-08-29
@@ -672,13 +672,13 @@
 
 ### Dynamic Analysis and Emulation
 
-* [Unicorn Engine - CPU Emulator](https://github.com/unicorn-engine/unicorn) ⭐ 9,233 | 🐛 210 | 🌐 C | 📅 2026-07-30
-* [Qiling Framework](https://github.com/qilingframework/qiling) ⭐ 6,056 | 🐛 123 | 🌐 Python | 📅 2026-07-22
-* [PANDA - Architecture-Neutral Dynamic Analysis](https://github.com/panda-re/panda) ⭐ 2,773 | 🐛 97 | 🌐 C | 📅 2026-07-29
-* [Renode - Embedded Systems Emulator](https://github.com/renode/renode) ⭐ 2,721 | 🐛 420 | 🌐 RobotFramework | 📅 2026-08-14
+* [Unicorn Engine - CPU Emulator](https://github.com/unicorn-engine/unicorn) ⭐ 9,236 | 🐛 210 | 🌐 C | 📅 2026-07-30
+* [Qiling Framework](https://github.com/qilingframework/qiling) ⭐ 6,061 | 🐛 123 | 🌐 Python | 📅 2026-07-22
+* [PANDA - Architecture-Neutral Dynamic Analysis](https://github.com/panda-re/panda) ⭐ 2,774 | 🐛 97 | 🌐 C | 📅 2026-07-29
+* [Renode - Embedded Systems Emulator](https://github.com/renode/renode) ⭐ 2,732 | 🐛 421 | 🌐 RobotFramework | 📅 2026-08-14
 * [Firmadyne - Automated Firmware Emulation](https://github.com/firmadyne/firmadyne) ⭐ 2,097 | 🐛 107 | 🌐 Shell | 📅 2024-07-21
-* [Bochs - x86 Emulator](https://github.com/bochs-emu/Bochs) ⭐ 1,350 | 🐛 72 | 🌐 C++ | 📅 2026-08-12
-* [FirmAE - Firmware Analysis and Emulation](https://github.com/pr0v3rbs/FirmAE) ⭐ 907 | 🐛 49 | 🌐 Python | 📅 2026-06-24
+* [Bochs - x86 Emulator](https://github.com/bochs-emu/Bochs) ⭐ 1,350 | 🐛 74 | 🌐 C++ | 📅 2026-08-16
+* [FirmAE - Firmware Analysis and Emulation](https://github.com/pr0v3rbs/FirmAE) ⭐ 908 | 🐛 49 | 🌐 Python | 📅 2026-06-24
 * [FirmWire - Baseband Firmware Emulation](https://github.com/FirmWire/FirmWire) ⭐ 874 | 🐛 17 | 🌐 Python | 📅 2026-07-11
 * [Avatar2 - Dynamic Firmware Analysis](https://github.com/avatartwo/avatar2) ⭐ 574 | 🐛 27 | 🌐 Python | 📅 2025-03-31
 * [S2E - Selective Symbolic Execution](https://github.com/S2E/s2e) ⭐ 524 | 🐛 2 | 🌐 C++ | 📅 2026-05-24
@@ -727,7 +727,7 @@
 
 #### Zephyr RTOS
 
-* [Zephyr RTOS GitHub](https://github.com/zephyrproject-rtos/zephyr) ⭐ 16,212 | 🐛 3,839 | 🌐 C | 📅 2026-08-14
+* [Zephyr RTOS GitHub](https://github.com/zephyrproject-rtos/zephyr) ⭐ 16,222 | 🐛 3,821 | 🌐 C | 📅 2026-08-16
 * [Zephyr Vulnerabilities List](https://docs.zephyrproject.org/latest/security/vulnerabilities.html)
 * [NCC Group Zephyr and MCUboot Security Assessment](https://www.nccgroup.com/us/research-blog/research-report-zephyr-and-mcuboot-security-assessment/)
 * [26 Flaws in Zephyr and MCUboot](https://web.archive.org/web/2024/https://embeddedcomputing.com/technology/open-source/linux-freertos-related/another-iot-security-uh-oh-26-flaws-in-open-source-zephyr-and-mcuboot-stacks)
@@ -744,12 +744,12 @@
 
 ### Reverse Engineering Tools
 
-* [Ghidra](https://github.com/NationalSecurityAgency/ghidra) ⭐ 72,366 | 🐛 1,908 | 🌐 Java | 📅 2026-08-13
-* [Frida - Dynamic Instrumentation](https://github.com/frida/frida) ⭐ 21,630 | 🐛 1,956 | 🌐 Meson | 📅 2026-08-13
-* [Cutter - GUI for Radare2](https://github.com/rizinorg/cutter) ⭐ 19,467 | 🐛 491 | 🌐 C++ | 📅 2026-08-13
-* [Angr - Binary Analysis](https://github.com/angr/angr) ⭐ 9,010 | 🐛 712 | 🌐 Python | 📅 2026-08-15
-* [RetDec - Decompiler](https://github.com/avast/retdec) ⭐ 8,607 | 🐛 458 | 🌐 C++ | 📅 2026-05-26
-* [Diaphora - Binary Diffing](https://github.com/joxeankoret/diaphora) ⭐ 4,368 | 🐛 39 | 🌐 Python | 📅 2026-07-29
+* [Ghidra](https://github.com/NationalSecurityAgency/ghidra) ⭐ 72,397 | 🐛 1,909 | 🌐 Java | 📅 2026-08-13
+* [Frida - Dynamic Instrumentation](https://github.com/frida/frida) ⭐ 21,636 | 🐛 1,956 | 🌐 Meson | 📅 2026-08-13
+* [Cutter - GUI for Radare2](https://github.com/rizinorg/cutter) ⭐ 19,470 | 🐛 492 | 🌐 C++ | 📅 2026-08-13
+* [Angr - Binary Analysis](https://github.com/angr/angr) ⭐ 9,013 | 🐛 719 | 🌐 Python | 📅 2026-08-16
+* [RetDec - Decompiler](https://github.com/avast/retdec) ⭐ 8,608 | 🐛 458 | 🌐 C++ | 📅 2026-05-26
+* [Diaphora - Binary Diffing](https://github.com/joxeankoret/diaphora) ⭐ 4,370 | 🐛 39 | 🌐 Python | 📅 2026-07-29
 * [Ret-sync](https://github.com/bootleg/ret-sync) ⭐ 2,371 | 🐛 31 | 🌐 C | 📅 2026-02-15
 * [Ghidriff - Ghidra Binary Diffing Engine](https://github.com/clearbluejar/ghidriff) ⭐ 803 | 🐛 33 | 🌐 Python | 📅 2026-05-11
 * [IDA Pro](https://www.hex-rays.com/products/ida/)
@@ -777,7 +777,7 @@
 
 #### Ghidra Tutorials
 
-* [Debugger Ghidra Class](https://github.com/NationalSecurityAgency/ghidra/tree/master/GhidraDocs/GhidraClass/Debugger) ⭐ 72,366 | 🐛 1,908 | 🌐 Java | 📅 2026-08-13
+* [Debugger Ghidra Class](https://github.com/NationalSecurityAgency/ghidra/tree/master/GhidraDocs/GhidraClass/Debugger) ⭐ 72,397 | 🐛 1,909 | 🌐 Java | 📅 2026-08-13
 * [Ghidra 101: Cursor Text Highlighting](https://www.tripwire.com/state-of-security/ghidra-101-cursor-text-highlighting)
 * [Ghidra 101: Decoding Stack Strings](https://www.tripwire.com/state-of-security/ghidra-101-decoding-stack-strings)
 * [Extending Ghidra Part 1: Setting up a Development Environment](https://voidstarsec.com/blog/ghidra-dev-environment)
@@ -969,8 +969,8 @@
 
 #### Tools - Software
 
-* [Scapy CoAP Plugin](https://github.com/secdev/scapy) ⭐ 12,471 | 🐛 130 | 🌐 Python | 📅 2026-08-14
-* [libcoap CLI Tools](https://github.com/obgm/libcoap) ⭐ 918 | 🐛 70 | 🌐 C | 📅 2026-08-11
+* [Scapy CoAP Plugin](https://github.com/secdev/scapy) ⭐ 12,472 | 🐛 130 | 🌐 Python | 📅 2026-08-14
+* [libcoap CLI Tools](https://github.com/obgm/libcoap) ⭐ 918 | 🐛 67 | 🌐 C | 📅 2026-08-15
 * [Copper - Firefox CoAP Plugin](https://github.com/mkovatsc/Copper) ⭐ 95 | 🐛 8 | 🌐 JavaScript | 📅 2018-10-18
 * [CoAP NSE (Nmap)](https://nmap.org/nsedoc/lib/coap.html)
 * [Eclipse Californium (Java)](https://www.eclipse.org/californium/)
@@ -1000,12 +1000,12 @@
 | eCapture (eBPF)           | Hook OpenSSL/BoringSSL on Linux IoT gateways pre-encrypt - decrypts mTLS + TLS 1.3 + PFS        | [ecapture.cc](https://ecapture.cc)                                                                                                                          |
 | Wireshark + SSLKEYLOGFILE | Decrypt captured mTLS sessions from IoT gateways using NSS pre-master secret logs               | [wiki.wireshark.org/TLS](https://wiki.wireshark.org/TLS)                                                                                                    |
 | Frida                     | Runtime hook SSLContext, TrustManager, KeyManager in Android IoT companion apps                 | [frida.re](https://frida.re/)                                                                                                                               |
-| Objection                 | android sslpinning disable - strips mTLS pinning in companion apps                              | [github.com/sensepost/objection](https://github.com/sensepost/objection) ⭐ 9,314 \| 🐛 55 \| 🌐 Python \| 📅 2026-07-23                                     |
+| Objection                 | android sslpinning disable - strips mTLS pinning in companion apps                              | [github.com/sensepost/objection](https://github.com/sensepost/objection) ⭐ 9,319 \| 🐛 55 \| 🌐 Python \| 📅 2026-07-23                                     |
 | apk-mitm                  | Statically patches IoT companion APK to disable mTLS cert pinning                               | [github.com/shroudedcode/apk-mitm](https://github.com/shroudedcode/apk-mitm) ⭐ 5,081 \| 🐛 83 \| 🌐 TypeScript \| 📅 2024-07-24                             |
 | MagiskTrustUserCerts      | Moves custom CA to system store on rooted Android POS/kiosk to complete mTLS MITM               | [github.com/NVISOsecurity/MagiskTrustUserCerts](https://github.com/NVISOsecurity/MagiskTrustUserCerts) ⭐ 2,539 \| 🐛 10 \| 🌐 Shell \| 📅 2025-06-24        |
-| frida-multiple-unpinning  | Universal Frida script targeting 20+ mTLS/pinning patterns in hardened IoT apps                 | [github.com/httptoolkit/frida-android-unpinning](https://github.com/httptoolkit/frida-android-unpinning) ⭐ 2,252 \| 🐛 83 \| 🌐 JavaScript \| 📅 2026-08-11 |
+| frida-multiple-unpinning  | Universal Frida script targeting 20+ mTLS/pinning patterns in hardened IoT apps                 | [github.com/httptoolkit/frida-android-unpinning](https://github.com/httptoolkit/frida-android-unpinning) ⭐ 2,253 \| 🐛 83 \| 🌐 JavaScript \| 📅 2026-08-11 |
 | NEU-SNS/IoTLS             | IMC'21 research repo - SSLKEYLOGFILE files to decrypt MITM'd mTLS connections across 32 devices | [github.com/NEU-SNS/IoTLS](https://github.com/NEU-SNS/IoTLS) ⭐ 6 \| 🐛 0 \| 🌐 Roff \| 📅 2021-09-29                                                        |
-| mitmrouter                | Linux-based IoT traffic interception router - intercepts device TLS at network level            | [github.com/nmatt0/mitmrouter](https://github.com/nmatt0/mitmrouter) ⭐ 750 \| 🐛 4 \| 🌐 Shell \| 📅 2026-05-26                                             |
+| mitmrouter                | Linux-based IoT traffic interception router - intercepts device TLS at network level            | [github.com/nmatt0/mitmrouter](https://github.com/nmatt0/mitmrouter) ⭐ 749 \| 🐛 4 \| 🌐 Shell \| 📅 2026-05-26                                             |
 
 #### Blogs & Articles
 
@@ -1061,18 +1061,18 @@
 
 #### Tools
 
-* [Prowler - Cloud Security Assessment](https://github.com/prowler-cloud/prowler) ⭐ 14,587 | 🐛 271 | 🌐 Python | 📅 2026-08-14
+* [Prowler - Cloud Security Assessment](https://github.com/prowler-cloud/prowler) ⭐ 14,591 | 🐛 275 | 🌐 Python | 📅 2026-08-14
 * [ScoutSuite - Multi-cloud Security Auditing](https://github.com/nccgroup/ScoutSuite) ⭐ 7,789 | 🐛 295 | 🌐 Python | 📅 2025-09-23
-* [Pacu - AWS Exploitation Framework](https://github.com/RhinoSecurityLabs/pacu) ⭐ 5,304 | 🐛 37 | 🌐 Python | 📅 2026-05-19
+* [Pacu - AWS Exploitation Framework](https://github.com/RhinoSecurityLabs/pacu) ⭐ 5,303 | 🐛 37 | 🌐 Python | 📅 2026-05-19
 * [S3Scanner - Leaky Bucket Discovery](https://github.com/sa7mon/S3Scanner) ⭐ 3,163 | 🐛 41 | 🌐 Go | 📅 2026-08-03
-* [CloudFox - Cloud Attack Paths](https://github.com/BishopFox/cloudfox) ⭐ 2,554 | 🐛 12 | 🌐 Go | 📅 2026-05-26
+* [CloudFox - Cloud Attack Paths](https://github.com/BishopFox/cloudfox) ⭐ 2,556 | 🐛 12 | 🌐 Go | 📅 2026-05-26
 * [Cloudfoxable Labs](https://github.com/BishopFox/cloudfoxable) ⭐ 468 | 🐛 1 | 🌐 Python | 📅 2026-05-01
 * [AWS Security Pentesting Resources](https://github.com/redskycyber/Cloud-Security/blob/main/AWS-Security-Pentesting-Resources.md) ⭐ 304 | 🐛 1 | 📅 2024-07-21
 
 #### Vulnerabilities
 
 * [7 Best AWS Pentesting Tools 2026](https://www.getastra.com/blog/cloud/aws/aws-pentesting-tools/)
-* [PayloadsAllTheThings - AWS Pentest](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Cloud%20-%20AWS%20Pentest.md) ⭐ 80,057 | 🐛 34 | 🌐 Python | 📅 2026-08-09
+* [PayloadsAllTheThings - AWS Pentest](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Cloud%20-%20AWS%20Pentest.md) ⭐ 80,084 | 🐛 34 | 🌐 Python | 📅 2026-08-09
 
 ### Firebase / Cloud Misconfigurations
 
@@ -1142,8 +1142,8 @@
 
 ### Automotive Security
 
-* [Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security) ⭐ 4,443 | 🐛 2 | 📅 2026-05-30
-* [Awesome CAN Bus - Curated Resources](https://github.com/iDoka/awesome-canbus) ⭐ 3,413 | 🐛 5 | 📅 2026-08-07
+* [Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security) ⭐ 4,446 | 🐛 2 | 📅 2026-05-30
+* [Awesome CAN Bus - Curated Resources](https://github.com/iDoka/awesome-canbus) ⭐ 3,414 | 🐛 5 | 📅 2026-08-07
 * [Subaru Head Unit Jailbreak](https://github.com/sgayou/subaru-starlink-research/blob/master/doc/README.md) ⭐ 599 | 🐛 1 | 📅 2020-09-28
 * [Car Hacking Village](https://www.carhackingvillage.com/)
 * [Jeep Hack](https://illmatics.com/Remote%20Car%20Hacking.pdf)
@@ -1279,7 +1279,7 @@
 
 #### Tools
 
-* [Dr. Memory](https://github.com/DynamoRIO/drmemory) ⭐ 2,740 | 🐛 1,047 | 🌐 C | 📅 2025-12-13
+* [Dr. Memory](https://github.com/DynamoRIO/drmemory) ⭐ 2,741 | 🐛 1,047 | 🌐 C | 📅 2025-12-13
 * [AFL Training Exercises](https://github.com/mykter/afl-training) ⭐ 1,283 | 🐛 6 | 🌐 C | 📅 2022-10-12
 * [Frankenstein - Broadcom/Cypress Firmware Emulation for Fuzzing](https://github.com/seemoo-lab/frankenstein) ⭐ 465 | 🐛 8 | 🌐 C | 📅 2024-02-07
 
@@ -1305,7 +1305,7 @@
 * [Wigle](https://wigle.net/)
 * [Hunter.io](https://hunter.io/)
 * [BuiltWith](https://builtwith.com/)
-* [Recon-ng](https://github.com/lanmaster53/recon-ng) ⭐ 5,849 | 🐛 38 | 🌐 Python | 📅 2024-11-01
+* [Recon-ng](https://github.com/lanmaster53/recon-ng) ⭐ 5,855 | 🐛 38 | 🌐 Python | 📅 2024-11-01
 * [PublicWWW](https://publicwww.com/)
 * [FCC ID Database](https://fccid.io/)
 * [CVE PoC Search](https://labs.jamessawyer.co.uk/cves/) - Search public GitHub PoC repositories by CVE ID
@@ -1338,7 +1338,7 @@
 * [Compiler Options Hardening Guide for C and C++](https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html)
 * [Linux Hardening Guide](https://madaidans-insecurities.github.io/guides/linux-hardening.html)
 * [Docker Security - Step-by-Step Hardening](https://reynardsec.com/en/docker-platform-security-step-by-step-hardening/)
-* [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) ⭐ 30,277 | 🐛 34 | 📅 2026-07-13
+* [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) ⭐ 30,284 | 🐛 34 | 📅 2026-07-13
 
 #### Guidelines and Standards
 
@@ -1371,10 +1371,10 @@
 
 ### Cheatsheets
 
-* [THC's favourite Tips, Tricks & Hacks](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) ⭐ 3,864 | 🐛 5 | 🌐 Shell | 📅 2026-06-30
+* [THC's favourite Tips, Tricks & Hacks](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) ⭐ 3,865 | 🐛 5 | 🌐 Shell | 📅 2026-06-30
 * [Pentest Hardware Handbook](https://github.com/unprovable/PentestHardware) ⭐ 507 | 🐛 2 | 📅 2019-05-29
 * [Hardware Hacking Cheatsheet](https://github.com/arunmagesh/hw_hacking_cheatsheet) ⭐ 157 | 🐛 0 | 📅 2024-02-19
-* [Nmap Tutorial](https://github.com/gnebbia/nmap_tutorial) ⭐ 121 | 🐛 0 | 🌐 HTML | 📅 2024-07-31
+* [Nmap Tutorial](https://github.com/gnebbia/nmap_tutorial) ⭐ 122 | 🐛 0 | 🌐 HTML | 📅 2024-07-31
 * [Cross Cache Attack CheetSheet](https://u1f383.github.io/linux/2025/01/03/cross-cache-attack-cheatsheet.html)
 
 ### Vulnerability Guides
@@ -1382,7 +1382,7 @@
 * [OWASP IoT Top 10 2018 Mapping](https://scriptingxss.gitbook.io/owasp-iot-top-10-mapping-project/)
 * [Reflecting on OWASP IoT Top 10](https://web.archive.org/web/2020/https://embedi.org/blog/reflecting-upon-owasp-top-10-iot-vulnerabilities/)
 * [CVE North Stars](https://cve-north-stars.github.io)
-* [IoT Vulnerabilities with CVE and PoC](https://github.com/z1r00/IOT_Vul) ⭐ 24 | 🐛 0 | 📅 2024-05-06
+* [IoT Vulnerabilities with CVE and PoC](https://github.com/z1r00/IOT_Vul) ⭐ 23 | 🐛 0 | 📅 2024-05-06
 * [Linux Privilege Escalation](https://tbhaxor.com/linux-privilege-escalation/)
 
 ### Pentesting Guides
@@ -1751,4 +1751,4 @@ This collection is provided for educational and research purposes.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
