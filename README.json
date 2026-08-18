@@ -202,7 +202,7 @@
             "last_commit": "2021-08-26T08:56:39Z",
             "owner": "mikeryan",
             "repo": "crackle",
-            "stars": 967
+            "stars": 968
           }
         },
         {
@@ -513,10 +513,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-14T12:34:52Z",
+            "last_commit": "2026-08-18T08:56:49Z",
             "owner": "open5gs",
             "repo": "open5gs",
-            "stars": 2684
+            "stars": 2686
           }
         },
         {
@@ -530,7 +530,7 @@
             "last_commit": "2024-10-23T16:48:32Z",
             "owner": "SysSec-KAIST",
             "repo": "LTESniffer",
-            "stars": 2214
+            "stars": 2215
           }
         },
         {
@@ -558,7 +558,7 @@
             "last_commit": "2026-07-06T14:30:47Z",
             "owner": "aligungr",
             "repo": "UERANSIM",
-            "stars": 1042
+            "stars": 1043
           }
         },
         {
@@ -600,7 +600,7 @@
             "last_commit": "2019-12-17T16:51:23Z",
             "owner": "SigPloiter",
             "repo": "SigPloit",
-            "stars": 387
+            "stars": 386
           }
         }
       ],
@@ -664,7 +664,7 @@
             "last_commit": "2026-08-02T21:00:26Z",
             "owner": "OWASP",
             "repo": "IoT-Security-Verification-Standard-ISVS",
-            "stars": 158
+            "stars": 159
           }
         },
         {
@@ -698,7 +698,7 @@
             "last_commit": "2026-08-11T15:27:34Z",
             "owner": "ReFirmLabs",
             "repo": "binwalk",
-            "stars": 14232
+            "stars": 14233
           }
         },
         {
@@ -726,7 +726,7 @@
             "last_commit": "2026-08-04T20:22:50Z",
             "owner": "slimm609",
             "repo": "checksec",
-            "stars": 2363
+            "stars": 2365
           }
         },
         {
@@ -737,7 +737,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T09:49:15Z",
+            "last_commit": "2026-08-18T08:53:36Z",
             "owner": "fkie-cad",
             "repo": "FACT_core",
             "stars": 1456
@@ -768,7 +768,7 @@
             "last_commit": "2023-10-08T15:26:40Z",
             "owner": "cruise-automation",
             "repo": "fwanalyzer",
-            "stars": 516
+            "stars": 517
           }
         },
         {
@@ -816,7 +816,7 @@
             "last_commit": "2026-07-30T16:17:57Z",
             "owner": "unicorn-engine",
             "repo": "unicorn",
-            "stars": 9237
+            "stars": 9238
           }
         },
         {
@@ -830,7 +830,7 @@
             "last_commit": "2026-07-22T14:09:44Z",
             "owner": "qilingframework",
             "repo": "qiling",
-            "stars": 6063
+            "stars": 6064
           }
         },
         {
@@ -855,10 +855,10 @@
           "repo_info": {
             "archived": false,
             "language": "RobotFramework",
-            "last_commit": "2026-08-17T05:45:12Z",
+            "last_commit": "2026-08-17T16:37:01Z",
             "owner": "renode",
             "repo": "renode",
-            "stars": 2743
+            "stars": 2748
           }
         },
         {
@@ -883,7 +883,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-17T03:49:02Z",
+            "last_commit": "2026-08-18T08:11:40Z",
             "owner": "bochs-emu",
             "repo": "Bochs",
             "stars": 1350
@@ -1000,7 +1000,7 @@
             "last_commit": "2026-08-17T08:59:20Z",
             "owner": "NationalSecurityAgency",
             "repo": "ghidra",
-            "stars": 72426
+            "stars": 72468
           }
         },
         {
@@ -1011,10 +1011,10 @@
           "repo_info": {
             "archived": false,
             "language": "Meson",
-            "last_commit": "2026-08-16T20:23:58Z",
+            "last_commit": "2026-08-18T09:10:59Z",
             "owner": "frida",
             "repo": "frida",
-            "stars": 21644
+            "stars": 21659
           }
         },
         {
@@ -1039,10 +1039,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T08:11:45Z",
+            "last_commit": "2026-08-18T09:40:43Z",
             "owner": "angr",
             "repo": "angr",
-            "stars": 9015
+            "stars": 9019
           }
         },
         {
@@ -1056,7 +1056,7 @@
             "last_commit": "2026-05-26T09:04:25Z",
             "owner": "avast",
             "repo": "retdec",
-            "stars": 8607
+            "stars": 8606
           }
         },
         {
@@ -1067,10 +1067,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-29T10:29:59Z",
+            "last_commit": "2026-08-18T08:47:14Z",
             "owner": "joxeankoret",
             "repo": "diaphora",
-            "stars": 4369
+            "stars": 4372
           }
         },
         {
@@ -1084,7 +1084,7 @@
             "last_commit": "2026-02-15T09:12:10Z",
             "owner": "bootleg",
             "repo": "ret-sync",
-            "stars": 2371
+            "stars": 2372
           }
         },
         {
@@ -1125,10 +1125,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T22:10:06Z",
+            "last_commit": "2026-08-18T06:54:00Z",
             "owner": "secdev",
             "repo": "scapy",
-            "stars": 12475
+            "stars": 12474
           }
         },
         {
@@ -1168,7 +1168,7 @@
       "title": "mTLS"
     },
     {
-      "description": "",
+      "description": "| Tool | Use | Link | | ───────────────────────── | ─────────────────────────────────────────────────────────────────────────────────────────────── | ──────────────────────────────────────────────────────────────────────────────────────────────────────── | | mtls-intercept | Reverse proxy that dynamically signs client certs to MITM full mTLS sessions | github.com/fungaren/mtls-intercept | | mitmproxy | Configure client_certs with extracted IoT device cert to impersonate device in mTLS handshake | mitmproxy.org | | SSLsplit | Transparent mTLS proxy - forward extracted device cert to complete mutual handshake with cloud | github.com/droe/sslsplit | | eCapture (eBPF) | Hook OpenSSL/BoringSSL on Linux IoT gateways pre-encrypt - decrypts mTLS + TLS 1.3 + PFS | ecapture.cc | | Wireshark + SSLKEYLOGFILE | Decrypt captured mTLS sessions from IoT gateways using NSS pre-master secret logs | wiki.wireshark.org/TLS | | Frida | Runtime hook SSLContext, TrustManager, KeyManager in Android IoT companion apps | frida.re | | Objection | Android sslpinning disable - strips mTLS pinning in companion apps | github.com/sensepost/objection | | apk-mitm | Statically patches IoT companion APK to disable mTLS cert pinning | github.com/shroudedcode/apk-mitm | | MagiskTrustUserCerts | Moves custom CA to system store on rooted Android POS/kiosk to complete mTLS MITM | github.com/NVISOsecurity/MagiskTrustUserCerts | | frida-multiple-unpinning | Universal Frida script targeting 20+ mTLS/pinning patterns in hardened IoT apps | github.com/httptoolkit/frida-android-unpinning | | NEU-SNS/IoTLS | IMC'21 research repo - SSLKEYLOGFILE files to decrypt MITM'd mTLS connections across 32 devices | github.com/NEU-SNS/IoTLS | | mitmrouter | Linux-based IoT traffic interception router - intercepts device TLS at network level | github.com/nmatt0/mitmrouter |",
       "items": [],
       "title": "Tools"
     },
@@ -1188,10 +1188,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T09:44:39Z",
+            "last_commit": "2026-08-18T09:32:27Z",
             "owner": "prowler-cloud",
             "repo": "prowler",
-            "stars": 14600
+            "stars": 14612
           }
         },
         {
@@ -1205,7 +1205,7 @@
             "last_commit": "2025-09-23T18:33:52Z",
             "owner": "nccgroup",
             "repo": "ScoutSuite",
-            "stars": 7791
+            "stars": 7793
           }
         },
         {
@@ -1219,7 +1219,7 @@
             "last_commit": "2026-05-19T22:31:37Z",
             "owner": "RhinoSecurityLabs",
             "repo": "pacu",
-            "stars": 5303
+            "stars": 5305
           }
         },
         {
@@ -1247,7 +1247,7 @@
             "last_commit": "2026-05-26T14:47:00Z",
             "owner": "BishopFox",
             "repo": "cloudfox",
-            "stars": 2557
+            "stars": 2558
           }
         },
         {
@@ -1319,7 +1319,7 @@
             "last_commit": "2026-08-07T22:14:43Z",
             "owner": "iDoka",
             "repo": "awesome-canbus",
-            "stars": 3420
+            "stars": 3421
           }
         },
         {
@@ -1363,7 +1363,7 @@
             "last_commit": "2026-03-11T21:34:33Z",
             "owner": "bad-antics",
             "repo": "nullsec-flipper-suite",
-            "stars": 60
+            "stars": 61
           }
         },
         {
@@ -1402,7 +1402,7 @@
             "last_commit": "2026-05-05T14:02:26Z",
             "owner": "threat9",
             "repo": "routersploit",
-            "stars": 13216
+            "stars": 13215
           }
         },
         {
@@ -1430,7 +1430,7 @@
             "last_commit": "2024-09-16T17:58:06Z",
             "owner": "attify",
             "repo": "firmware-analysis-toolkit",
-            "stars": 1583
+            "stars": 1581
           }
         },
         {
@@ -1455,10 +1455,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-17T08:11:06Z",
+            "last_commit": "2026-08-17T20:29:56Z",
             "owner": "emsec",
             "repo": "hal",
-            "stars": 817
+            "stars": 819
           }
         },
         {
@@ -1517,10 +1517,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T08:41:53Z",
+            "last_commit": "2026-08-17T12:49:23Z",
             "owner": "google",
             "repo": "syzkaller",
-            "stars": 6301
+            "stars": 6302
           }
         },
         {
@@ -1534,7 +1534,7 @@
             "last_commit": "2026-08-06T20:36:50Z",
             "owner": "jtpereyda",
             "repo": "boofuzz",
-            "stars": 2354
+            "stars": 2355
           }
         },
         {
@@ -1568,7 +1568,7 @@
             "last_commit": "2024-10-24T14:45:24Z",
             "owner": "google",
             "repo": "fuzzing",
-            "stars": 3781
+            "stars": 3782
           }
         },
         {
@@ -1708,7 +1708,7 @@
             "last_commit": "2026-06-30T08:39:47Z",
             "owner": "hackerschoice",
             "repo": "thc-tips-tricks-hacks-cheat-sheet",
-            "stars": 3866
+            "stars": 3867
           }
         },
         {
@@ -1794,7 +1794,7 @@
             "last_commit": "2026-08-07T15:55:23Z",
             "owner": "hackgnar",
             "repo": "ble_ctf",
-            "stars": 775
+            "stars": 774
           }
         },
         {
@@ -1879,6 +1879,11 @@
     {
       "description": "",
       "items": [],
+      "title": "IoT CTFs"
+    },
+    {
+      "description": "",
+      "items": [],
       "title": "Research and Community"
     },
     {
@@ -1895,17 +1900,12 @@
       "description": "Contributions welcome. Submit a PR with new resources following the existing structure.",
       "items": [],
       "title": "Contributing"
-    },
-    {
-      "description": "This collection is provided for educational and research purposes.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T09:53:50.738Z",
+    "last_updated": "2026-08-18T09:45:48.947Z",
     "original_repository": "V33RU/awesome-connected-things-sec",
-    "original_repository_sha": "dddaa7c0cd6ce47c6fc523637d1ca9973edc1c04",
+    "original_repository_sha": "98b7b94fdec4195a2c970632a3f6a6e2cfcf5bdf",
     "enhanced_repository": "enhansome/enhansome-connected-things-sec",
     "enhanced_repository_description": null,
     "title": "Awesome connected things sec with stars"

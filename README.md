@@ -52,113 +52,54 @@
 
 ***
 
-## Table of Contents
+## Contents
 
 * [Hardware Attacks](#hardware-attacks)
   * [Fundamentals](#fundamentals)
   * [Interface Attacks](#interface-attacks)
-    * [UART](#uart)
-    * [JTAG](#jtag)
-    * [SWD (Serial Wire Debug)](#swd-serial-wire-debug)
-    * [SPI](#spi)
-    * [I2C](#i2c)
-    * [TPM](#tpm)
   * [Memory Extraction](#memory-extraction)
-    * [eMMC](#emmc)
   * [Side-Channel and Fault Injection](#side-channel-and-fault-injection)
-    * [Fundamentals](#fundamentals-1)
-    * [Glitching Attacks](#glitching-attacks)
-    * [Power Analysis](#power-analysis)
+  * [PCIe and DMA Attacks](#pcie-and-dma-attacks)
 * [Wireless Protocols](#wireless-protocols)
   * [RF Fundamentals](#rf-fundamentals)
-  * [Bluetooth / BLE](#bluetooth-ble)
-    * [Fundamentals](#fundamentals-2)
-    * [Exploitation Techniques](#exploitation-techniques)
-    * [Vulnerability Research](#vulnerability-research)
-    * [Conference Talks](#conference-talks)
-    * [Tools - Software](#tools---software)
-    * [Tools - Hardware](#tools---hardware)
-    * [Tools](#tools)
-    * [Hacking Bluetooth Coffee Machines](#hacking-bluetooth-coffee-machines)
-  * [Zigbee / Z-Wave](#zigbee-z-wave)
-    * [Fundamentals](#fundamentals-3)
-    * [Exploitation](#exploitation)
-    * [Tools - Software](#tools---software-1)
-    * [Tools - Hardware](#tools---hardware-1)
-  * [LoRa / LoRaWAN](#lora-lorawan)
-    * [Fundamentals](#fundamentals-4)
-    * [Exploitation](#exploitation-1)
-    * [Tools](#tools-1)
-  * [Matter / Thread](#matter-thread)
-    * [Fundamentals](#fundamentals-5)
-    * [Security Research](#security-research)
+  * [Bluetooth / BLE](#bluetooth--ble)
+  * [Zigbee / Z-Wave](#zigbee--z-wave)
+  * [LoRa / LoRaWAN](#lora--lorawan)
+  * [Matter / Thread](#matter--thread)
   * [Cellular (GSM/LTE/5G)](#cellular-gsmlte5g)
-    * [Fundamentals](#fundamentals-6)
-    * [Exploitation](#exploitation-2)
-    * [Tools](#tools-2)
   * [NFC/RFID](#nfcrfid)
   * [DECT (Digital Enhanced Cordless Telecommunications)](#dect-digital-enhanced-cordless-telecommunications)
   * [Wi-Fi](#wi-fi)
-    * [Protocol Vulnerabilities](#protocol-vulnerabilities)
-    * [Exploitation](#exploitation-3)
-    * [Reverse Engineering WiFi](#reverse-engineering-wifi)
   * [USB](#usb)
   * [UWB (Ultra-Wideband)](#uwb-ultra-wideband)
   * [TETRA](#tetra)
 * [Firmware Security](#firmware-security)
-  * [Fundamentals](#fundamentals-7)
+  * [Fundamentals](#fundamentals-1)
   * [Extraction](#extraction)
   * [Static Analysis Tools](#static-analysis-tools)
   * [Dynamic Analysis and Emulation](#dynamic-analysis-and-emulation)
-    * [Emulation Tutorials](#emulation-tutorials)
   * [OTA Update Security](#ota-update-security)
-    * [Fundamentals](#fundamentals-8)
-    * [Attack Vectors](#attack-vectors)
   * [RTOS Security](#rtos-security)
-    * [Zephyr RTOS](#zephyr-rtos)
-    * [FreeRTOS](#freertos)
   * [Reverse Engineering Tools](#reverse-engineering-tools)
-    * [Reverse Engineering Tutorials](#reverse-engineering-tutorials)
-    * [Ghidra Tutorials](#ghidra-tutorials)
   * [Online Assemblers](#online-assemblers)
   * [ARM Exploitation](#arm-exploitation)
   * [Binary Analysis](#binary-analysis)
   * [Secure Boot](#secure-boot)
-    * [Development](#development)
-    * [Bypasses](#bypasses)
   * [UEFI Security](#uefi-security)
   * [Symlink Attacks](#symlink-attacks)
   * [Router Firmware Analysis](#router-firmware-analysis)
   * [Router Exploitation](#router-exploitation)
-    * [Netgear Series](#netgear-series)
-    * [TP-Link Series](#tp-link-series)
-    * [Cisco Series](#cisco-series)
   * [Secure Boot Bypasses](#secure-boot-bypasses)
 * [Network and Web Protocols](#network-and-web-protocols)
   * [MQTT](#mqtt)
-    * [Fundamentals](#fundamentals-9)
-    * [Security and Exploitation](#security-and-exploitation)
-    * [Known CVEs](#known-cves)
-    * [Tools](#tools-3)
-    * [Applications](#applications)
-    * [Malware Research](#malware-research)
   * [CoAP](#coap)
-    * [Specifications and Security](#specifications-and-security)
-    * [Tools - Software](#tools---software-2)
-    * [Tools - Hardware](#tools---hardware-2)
-    * [Research and Tutorials](#research-and-tutorials)
   * [mTLS](#mtls)
   * [IoT Protocols Overview](#iot-protocols-overview)
 * [Cloud and Backend Security](#cloud-and-backend-security)
   * [AWS IoT Security](#aws-iot-security)
-    * [Fundamentals](#fundamentals-10)
-    * [Tools](#tools-4)
-    * [Vulnerabilities](#vulnerabilities)
-  * [Firebase / Cloud Misconfigurations](#firebase-cloud-misconfigurations)
+  * [Firebase / Cloud Misconfigurations](#firebase--cloud-misconfigurations)
 * [Mobile Application Security](#mobile-application-security)
   * [Android](#android)
-    * [Android Kernel Exploitation](#android-kernel-exploitation)
-    * [Android Scudo Allocator](#android-scudo-allocator)
   * [iOS](#ios)
 * [Industrial and Automotive](#industrial-and-automotive)
   * [ICS/SCADA](#icsscada)
@@ -167,30 +108,15 @@
 * [Payment Systems](#payment-systems)
   * [ATM Hacking](#atm-hacking)
   * [Payment Village](#payment-village)
-* [Tools](#tools-5)
+* [Tools](#tools)
   * [Hardware Tools](#hardware-tools)
-    * [Multi-Purpose](#multi-purpose)
-    * [Debug Adapters](#debug-adapters)
-    * [USB](#usb-1)
-    * [Glitching](#glitching-attacks)
-    * [Flipper Zero](#flipper-zero)
-    * [Hak5](#hak5)
   * [Software Tools](#software-tools)
-    * [Exploitation Frameworks](#exploitation-frameworks)
-    * [Firmware Analysis](#firmware-analysis)
   * [Fuzzing Tools](#fuzzing-tools)
-    * [Fundamentals](#fundamentals-11)
-    * [IoT-Specific Fuzzing](#iot-specific-fuzzing)
-    * [Tools](#tools-6)
   * [Pentesting Operating Systems](#pentesting-operating-systems)
   * [Search Engines](#search-engines)
 * [Defensive Security](#defensive-security)
   * [Threat Modeling](#threat-modeling)
-    * [STRIDE Framework](#stride-framework)
-    * [IoT-Specific Threat Modeling](#iot-specific-threat-modeling)
   * [Secure Development](#secure-development)
-    * [Guidelines and Standards](#guidelines-and-standards)
-    * [Hardening Guides](#hardening-guides)
   * [Incident Response](#incident-response)
 * [Learning Resources](#learning-resources)
   * [Training Platforms](#training-platforms)
@@ -199,25 +125,10 @@
   * [Pentesting Guides](#pentesting-guides)
   * [YouTube Channels](#youtube-channels)
   * [Books](#books)
-    * [Hardware Hacking](#hardware-hacking)
-    * [Firmware and Reverse Engineering](#firmware-and-reverse-engineering)
-    * [IoT Security](#iot-security)
-    * [Wireless and RF](#wireless-and-rf)
-    * [Embedded and Mobile](#embedded-and-mobile)
-    * [NFC/RFID](#nfcrfid-1)
-    * [Industrial and General Security](#industrial-and-general-security)
-    * [White Papers and Reports](#white-papers-and-reports)
   * [IoT Series](#iot-series)
 * [Labs and CTFs](#labs-and-ctfs)
   * [Vulnerable Applications](#vulnerable-applications)
-    * [Hardware](#hardware)
-    * [Industrial](#industrial)
-    * [VoIP](#voip)
   * [CTF Competitions](#ctf-competitions)
-    * [Hardware CTFs](#hardware-ctfs)
-    * [IoT CTFs](#iot-ctfs)
-    * [Embedded/Firmware CTFs](#embeddedfirmware-ctfs)
-    * [ARM CTFs](#arm-ctfs)
   * [Continuous Learning Platforms](#continuous-learning-platforms)
   * [Lab Setup](#lab-setup)
 * [Research and Community](#research-and-community)
@@ -227,21 +138,10 @@
   * [Villages](#villages)
   * [Researchers to Follow](#researchers-to-follow)
   * [Device-Specific Research](#device-specific-research)
-    * [Cameras](#cameras)
-    * [Smart Home Devices](#smart-home-devices)
-    * [Smart Speakers](#smart-speakers)
-    * [Printers](#printers)
-    * [Drones](#drones)
-    * [Kitchen Appliances](#kitchen-appliances)
-    * [NAS Devices](#nas-devices)
-    * [Game Consoles](#game-consoles)
-    * [Phones/Tablets](#phonestablets)
   * [TrustZone and TEE Research](#trustzone-and-tee-research)
   * [Pwn2Own Research](#pwn2own-research)
-* [MCP / AI Agent](#mcp-ai-agent)
+* [MCP / AI Agent](#mcp--ai-agent)
   * [Bluetooth Reverse Engineering](#bluetooth-reverse-engineering)
-* [Contributing](#contributing)
-* [License](#license)
 
 ## Hardware Attacks
 
@@ -430,10 +330,10 @@
 * [bettercap](https://github.com/bettercap/bettercap) ⭐ 19,811 | 🐛 44 | 🌐 Go | 📅 2026-08-13
 * [BTLEjack - BLE Swiss Army Knife](https://github.com/virtualabs/btlejack) ⭐ 2,104 | 🐛 28 | 🌐 Python | 📅 2024-08-04
 * [Bluing - Intelligence Gathering for Bluetooth](https://github.com/fO-000/bluing) ⭐ 1,016 | 🐛 14 | 🌐 Python | 📅 2023-04-23
-* [crackle - Cracking BLE Encryption](https://github.com/mikeryan/crackle) ⭐ 967 | 🐛 6 | 🌐 C | 📅 2021-08-26
+* [crackle - Cracking BLE Encryption](https://github.com/mikeryan/crackle) ⭐ 968 | 🐛 6 | 🌐 C | 📅 2021-08-26
 * [BtleJuice - Bluetooth Smart MITM Framework](https://github.com/DigitalSecurity/btlejuice) ⚠️ Archived
 * [GATTacker](https://github.com/securing/gattacker) ⭐ 844 | 🐛 18 | 🌐 JavaScript | 📅 2022-01-31
-* [BlueToolkit - Bluetooth Classic Vulnerability Testing](https://github.com/sgxgsx/BlueToolkit) ⭐ 724 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2026-03-05
+* [BlueToolkit - Bluetooth Classic Vulnerability Testing](https://github.com/sgxgsx/BlueToolkit) ⭐ 724 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2026-03-05
 * [ESP32 Bluetooth Classic Sniffer](https://github.com/Matheus-Garbelini/esp32_bluetooth_classic_sniffer) ⭐ 599 | 🐛 15 | 🌐 C | 📅 2023-05-10
 * [BrakTooth ESP32 PoC](https://github.com/Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks) ⭐ 578 | 🐛 32 | 📅 2024-08-31
 * [btproxy](https://github.com/conorpp/btproxy) ⭐ 541 | 🐛 9 | 🌐 Python | 📅 2020-02-24
@@ -459,9 +359,9 @@
 
 #### Hacking Bluetooth Coffee Machines
 
-* [Hacking Bluetooth to Brew Coffee from Github Actions - Part 1](https://grack.com/blog/2022/12/01/hacking-bluetooth-to-brew-coffee-on-github-actions-part-1/)
-* [Hacking Bluetooth to Brew Coffee from Github Actions - Part 2](https://grack.com/blog/2022/12/02/hacking-bluetooth-to-brew-coffee-on-github-actions-part-2/)
-* [Hacking Bluetooth to Brew Coffee from Github Actions - Part 3](https://grack.com/blog/2022/12/04/hacking-bluetooth-to-brew-coffee-on-github-actions-part-3/)
+* [Hacking Bluetooth to Brew Coffee from GitHub Actions - Part 1](https://grack.com/blog/2022/12/01/hacking-bluetooth-to-brew-coffee-on-github-actions-part-1/)
+* [Hacking Bluetooth to Brew Coffee from GitHub Actions - Part 2](https://grack.com/blog/2022/12/02/hacking-bluetooth-to-brew-coffee-on-github-actions-part-2/)
+* [Hacking Bluetooth to Brew Coffee from GitHub Actions - Part 3](https://grack.com/blog/2022/12/04/hacking-bluetooth-to-brew-coffee-on-github-actions-part-3/)
 
 ### Zigbee / Z-Wave
 
@@ -543,13 +443,13 @@
 ### Cellular (GSM/LTE/5G)
 
 * [Awesome Cellular Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking/) ⭐ 3,982 | 🐛 2 | 📅 2026-03-21
-* [Open5GS - Open Source 5G/4G Core](https://github.com/open5gs/open5gs) ⭐ 2,684 | 🐛 286 | 🌐 C | 📅 2026-08-14
-* [LTE Sniffer](https://github.com/SysSec-KAIST/LTESniffer) ⭐ 2,214 | 🐛 25 | 🌐 C++ | 📅 2024-10-23
+* [Open5GS - Open Source 5G/4G Core](https://github.com/open5gs/open5gs) ⭐ 2,686 | 🐛 287 | 🌐 C | 📅 2026-08-18
+* [LTE Sniffer](https://github.com/SysSec-KAIST/LTESniffer) ⭐ 2,215 | 🐛 25 | 🌐 C++ | 📅 2024-10-23
 * [srsRAN 5G - Open Source 5G Stack](https://github.com/srsran/srsRAN_Project) ⚠️ Archived
-* [5G NR Jamming, Spoofing and Sniffing](https://github.com/aligungr/UERANSIM) ⭐ 1,042 | 🐛 244 | 🌐 C++ | 📅 2026-07-06
+* [5G NR Jamming, Spoofing and Sniffing](https://github.com/aligungr/UERANSIM) ⭐ 1,043 | 🐛 244 | 🌐 C++ | 📅 2026-07-06
 * [5Ghoul - 5G NR Attacks and Fuzzing](https://github.com/asset-group/5ghoul-5g-nr-attacks) ⭐ 690 | 🐛 17 | 🌐 C++ | 📅 2026-03-11
 * [SCAT - Signaling Collection and Analysis Tool for Cellular](https://github.com/fgsect/scat) ⭐ 524 | 🐛 16 | 🌐 Python | 📅 2026-06-19
-* [SigPloit - Telecom Signaling Exploitation Framework](https://github.com/SigPloiter/SigPloit) ⭐ 387 | 🐛 60 | 🌐 Java | 📅 2019-12-17
+* [SigPloit - Telecom Signaling Exploitation Framework](https://github.com/SigPloiter/SigPloit) ⭐ 386 | 🐛 60 | 🌐 Java | 📅 2019-12-17
 * [Introduction to GSM Security](http://www.pentestingexperts.com/introduction-to-gsm-security/)
 * [Breaking LTE on Layer Two](https://alter-attack.net/)
 * [Exploiting CSN.1 Bugs in MediaTek Basebands](https://labs.taszk.io/articles/post/mtk_baseband_csn1_exploitation/)
@@ -620,7 +520,7 @@
 ### USB
 
 * [ALL ABOUT USB-C: INTRODUCTION FOR HACKERS](https://hackaday.com/2022/12/06/usb-c-introduction-for-hackers/)
-* [Hi, My Name is Keyboard](https://github.com/skysafe/reblog/blob/main/cve-2024-0230/README.md) ⭐ 774 | 🐛 2 | 📅 2024-01-11
+* [Hi, My Name is Keyboard](https://github.com/skysafe/reblog/blob/main/cve-2024-0230/README.md) ⭐ 773 | 🐛 2 | 📅 2024-01-11
 * [How to Weaponize the Yubikey](https://www.blackhillsinfosec.com/how-to-weaponize-the-yubikey/)
 
 ### UWB (Ultra-Wideband)
@@ -641,7 +541,7 @@
 
 ### Fundamentals
 
-* [IoT Security Verification Standard (ISVS)](https://github.com/OWASP/IoT-Security-Verification-Standard-ISVS) ⭐ 158 | 🐛 18 | 🌐 TeX | 📅 2026-08-02
+* [IoT Security Verification Standard (ISVS)](https://github.com/OWASP/IoT-Security-Verification-Standard-ISVS) ⭐ 159 | 🐛 18 | 🌐 TeX | 📅 2026-08-02
 * [Hands-on Firmware Extraction, Exploration, and Emulation](https://github.com/onekey-sec/BHEU23-firmware-workshop) ⭐ 59 | 🐛 0 | 🌐 Python | 📅 2026-07-02
 * [Introduction to Firmware Analysis - OWASP](https://www.owasp.org/index.php/IoT_Firmware_Analysis)
 * [OWASP Firmware Security Testing Methodology](https://scriptingxss.gitbook.io/firmware-security-testing-methodology/)
@@ -658,12 +558,12 @@
 
 ### Static Analysis Tools
 
-* [Binwalk v3](https://github.com/ReFirmLabs/binwalk) ⭐ 14,232 | 🐛 92 | 🌐 Rust | 📅 2026-08-11
+* [Binwalk v3](https://github.com/ReFirmLabs/binwalk) ⭐ 14,233 | 🐛 92 | 🌐 Rust | 📅 2026-08-11
 * [unblob - Extraction Framework](https://github.com/onekey-sec/unblob) ⭐ 2,541 | 🐛 41 | 🌐 Python | 📅 2026-08-17
-* [Checksec.sh](https://github.com/slimm609/checksec.sh) ⭐ 2,363 | 🐛 3 | 🌐 Go | 📅 2026-08-04
-* [FACT - Firmware Analysis and Comparison Tool](https://github.com/fkie-cad/FACT_core) ⭐ 1,456 | 🐛 138 | 🌐 Python | 📅 2026-08-17
+* [Checksec.sh](https://github.com/slimm609/checksec.sh) ⭐ 2,365 | 🐛 3 | 🌐 Go | 📅 2026-08-04
+* [FACT - Firmware Analysis and Comparison Tool](https://github.com/fkie-cad/FACT_core) ⭐ 1,456 | 🐛 138 | 🌐 Python | 📅 2026-08-18
 * [Firmwalker](https://github.com/craigz28/firmwalker) ⭐ 1,221 | 🐛 5 | 🌐 Shell | 📅 2023-08-29
-* [fwanalyzer](https://github.com/cruise-automation/fwanalyzer) ⭐ 516 | 🐛 3 | 🌐 Go | 📅 2023-10-08
+* [fwanalyzer](https://github.com/cruise-automation/fwanalyzer) ⭐ 517 | 🐛 3 | 🌐 Go | 📅 2023-10-08
 * [BINSEC](https://github.com/binsec/binsec) ⭐ 417 | 🐛 9 | 🌐 OCaml | 📅 2026-06-30
 * [fwhunt-scan - UEFI Firmware Analysis](https://github.com/binarly-io/fwhunt-scan) ⭐ 243 | 🐛 0 | 🌐 Python | 📅 2025-05-02
 * [EMBA - Embedded Linux Firmware Analyzer](https://p4cx.medium.com/emba-b370ce503602)
@@ -672,12 +572,12 @@
 
 ### Dynamic Analysis and Emulation
 
-* [Unicorn Engine - CPU Emulator](https://github.com/unicorn-engine/unicorn) ⭐ 9,237 | 🐛 210 | 🌐 C | 📅 2026-07-30
-* [Qiling Framework](https://github.com/qilingframework/qiling) ⭐ 6,063 | 🐛 123 | 🌐 Python | 📅 2026-07-22
+* [Unicorn Engine - CPU Emulator](https://github.com/unicorn-engine/unicorn) ⭐ 9,238 | 🐛 211 | 🌐 C | 📅 2026-07-30
+* [Qiling Framework](https://github.com/qilingframework/qiling) ⭐ 6,064 | 🐛 123 | 🌐 Python | 📅 2026-07-22
 * [PANDA - Architecture-Neutral Dynamic Analysis](https://github.com/panda-re/panda) ⭐ 2,774 | 🐛 97 | 🌐 C | 📅 2026-07-29
-* [Renode - Embedded Systems Emulator](https://github.com/renode/renode) ⭐ 2,743 | 🐛 422 | 🌐 RobotFramework | 📅 2026-08-17
+* [Renode - Embedded Systems Emulator](https://github.com/renode/renode) ⭐ 2,748 | 🐛 422 | 🌐 RobotFramework | 📅 2026-08-17
 * [Firmadyne - Automated Firmware Emulation](https://github.com/firmadyne/firmadyne) ⭐ 2,098 | 🐛 107 | 🌐 Shell | 📅 2024-07-21
-* [Bochs - x86 Emulator](https://github.com/bochs-emu/Bochs) ⭐ 1,350 | 🐛 74 | 🌐 C++ | 📅 2026-08-17
+* [Bochs - x86 Emulator](https://github.com/bochs-emu/Bochs) ⭐ 1,350 | 🐛 72 | 🌐 C++ | 📅 2026-08-18
 * [FirmAE - Firmware Analysis and Emulation](https://github.com/pr0v3rbs/FirmAE) ⭐ 912 | 🐛 49 | 🌐 Python | 📅 2026-06-24
 * [FirmWire - Baseband Firmware Emulation](https://github.com/FirmWire/FirmWire) ⭐ 875 | 🐛 17 | 🌐 Python | 📅 2026-07-11
 * [Avatar2 - Dynamic Firmware Analysis](https://github.com/avatartwo/avatar2) ⭐ 574 | 🐛 27 | 🌐 Python | 📅 2025-03-31
@@ -727,7 +627,7 @@
 
 #### Zephyr RTOS
 
-* [Zephyr RTOS GitHub](https://github.com/zephyrproject-rtos/zephyr) ⭐ 16,228 | 🐛 3,856 | 🌐 C | 📅 2026-08-17
+* [Zephyr RTOS GitHub](https://github.com/zephyrproject-rtos/zephyr) ⭐ 16,241 | 🐛 3,853 | 🌐 C | 📅 2026-08-18
 * [Zephyr Vulnerabilities List](https://docs.zephyrproject.org/latest/security/vulnerabilities.html)
 * [NCC Group Zephyr and MCUboot Security Assessment](https://www.nccgroup.com/us/research-blog/research-report-zephyr-and-mcuboot-security-assessment/)
 * [26 Flaws in Zephyr and MCUboot](https://web.archive.org/web/2024/https://embeddedcomputing.com/technology/open-source/linux-freertos-related/another-iot-security-uh-oh-26-flaws-in-open-source-zephyr-and-mcuboot-stacks)
@@ -744,14 +644,14 @@
 
 ### Reverse Engineering Tools
 
-* [Ghidra](https://github.com/NationalSecurityAgency/ghidra) ⭐ 72,426 | 🐛 1,914 | 🌐 Java | 📅 2026-08-17
-* [Frida - Dynamic Instrumentation](https://github.com/frida/frida) ⭐ 21,644 | 🐛 1,956 | 🌐 Meson | 📅 2026-08-16
+* [Ghidra](https://github.com/NationalSecurityAgency/ghidra) ⭐ 72,468 | 🐛 1,916 | 🌐 Java | 📅 2026-08-17
+* [Frida - Dynamic Instrumentation](https://github.com/frida/frida) ⭐ 21,659 | 🐛 1,958 | 🌐 Meson | 📅 2026-08-18
 * [Cutter - GUI for Radare2](https://github.com/rizinorg/cutter) ⭐ 19,471 | 🐛 492 | 🌐 C++ | 📅 2026-08-13
-* [Angr - Binary Analysis](https://github.com/angr/angr) ⭐ 9,015 | 🐛 727 | 🌐 Python | 📅 2026-08-17
-* [RetDec - Decompiler](https://github.com/avast/retdec) ⭐ 8,607 | 🐛 458 | 🌐 C++ | 📅 2026-05-26
-* [Diaphora - Binary Diffing](https://github.com/joxeankoret/diaphora) ⭐ 4,369 | 🐛 39 | 🌐 Python | 📅 2026-07-29
-* [Ret-sync](https://github.com/bootleg/ret-sync) ⭐ 2,371 | 🐛 31 | 🌐 C | 📅 2026-02-15
-* [Ghidriff - Ghidra Binary Diffing Engine](https://github.com/clearbluejar/ghidriff) ⭐ 802 | 🐛 33 | 🌐 Python | 📅 2026-05-11
+* [Angr - Binary Analysis](https://github.com/angr/angr) ⭐ 9,019 | 🐛 721 | 🌐 Python | 📅 2026-08-18
+* [RetDec - Decompiler](https://github.com/avast/retdec) ⭐ 8,606 | 🐛 458 | 🌐 C++ | 📅 2026-05-26
+* [Diaphora - Binary Diffing](https://github.com/joxeankoret/diaphora) ⭐ 4,372 | 🐛 35 | 🌐 Python | 📅 2026-08-18
+* [Ret-sync](https://github.com/bootleg/ret-sync) ⭐ 2,372 | 🐛 31 | 🌐 C | 📅 2026-02-15
+* [Ghidriff - Ghidra Binary Diffing Engine](https://github.com/clearbluejar/ghidriff) ⭐ 802 | 🐛 34 | 🌐 Python | 📅 2026-05-11
 * [IDA Pro](https://www.hex-rays.com/products/ida/)
 * [Radare2](https://www.rada.re/n/)
 * [Binary Ninja](https://binary.ninja/)
@@ -777,7 +677,7 @@
 
 #### Ghidra Tutorials
 
-* [Debugger Ghidra Class](https://github.com/NationalSecurityAgency/ghidra/tree/master/GhidraDocs/GhidraClass/Debugger) ⭐ 72,426 | 🐛 1,914 | 🌐 Java | 📅 2026-08-17
+* [Debugger Ghidra Class](https://github.com/NationalSecurityAgency/ghidra/tree/master/GhidraDocs/GhidraClass/Debugger) ⭐ 72,468 | 🐛 1,916 | 🌐 Java | 📅 2026-08-17
 * [Ghidra 101: Cursor Text Highlighting](https://www.tripwire.com/state-of-security/ghidra-101-cursor-text-highlighting)
 * [Ghidra 101: Decoding Stack Strings](https://www.tripwire.com/state-of-security/ghidra-101-decoding-stack-strings)
 * [Extending Ghidra Part 1: Setting up a Development Environment](https://voidstarsec.com/blog/ghidra-dev-environment)
@@ -969,8 +869,8 @@
 
 #### Tools - Software
 
-* [Scapy CoAP Plugin](https://github.com/secdev/scapy) ⭐ 12,475 | 🐛 131 | 🌐 Python | 📅 2026-08-16
-* [libcoap CLI Tools](https://github.com/obgm/libcoap) ⭐ 918 | 🐛 67 | 🌐 C | 📅 2026-08-15
+* [Scapy CoAP Plugin](https://github.com/secdev/scapy) ⭐ 12,474 | 🐛 131 | 🌐 Python | 📅 2026-08-18
+* [libcoap CLI Tools](https://github.com/obgm/libcoap) ⭐ 918 | 🐛 68 | 🌐 C | 📅 2026-08-15
 * [Copper - Firefox CoAP Plugin](https://github.com/mkovatsc/Copper) ⭐ 95 | 🐛 8 | 🌐 JavaScript | 📅 2018-10-18
 * [CoAP NSE (Nmap)](https://nmap.org/nsedoc/lib/coap.html)
 * [Eclipse Californium (Java)](https://www.eclipse.org/californium/)
@@ -978,7 +878,7 @@
 
 #### Tools - Hardware
 
-* [Raspberry Pi / Arduino + 6LoWPAN](https://github.com/contiki-ng/contiki-ng/wiki/Tutorial:-RPL-border-router) ⭐ 1,519 | 🐛 308 | 🌐 C | 📅 2026-08-14
+* [Raspberry Pi / Arduino + 6LoWPAN](https://github.com/contiki-ng/contiki-ng/wiki/Tutorial:-RPL-border-router) ⭐ 1,520 | 🐛 308 | 🌐 C | 📅 2026-08-14
 * [Zolertia](https://zolertia.io/)
 * [OpenMote](https://web.archive.org/web/2022/http://www.openmote.com/)
 * [Nordic Boards](https://www.nordicsemi.com/)
@@ -992,20 +892,20 @@
 
 #### Tools
 
-| Tool                      | Use                                                                                             | Link                                                                                                                                                        |
-| ------------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| mtls-intercept            | Reverse proxy that dynamically signs client certs to MITM full mTLS sessions                    | [github.com/fungaren/mtls-intercept](https://github.com/fungaren/mtls-intercept) ⭐ 3 \| 🐛 0 \| 🌐 Go \| 📅 2024-01-29                                      |
-| mitmproxy                 | Configure client\_certs with extracted IoT device cert to impersonate device in mTLS handshake  | [mitmproxy.org](https://mitmproxy.org)                                                                                                                      |
-| SSLsplit                  | Transparent mTLS proxy - forward extracted device cert to complete mutual handshake with cloud  | [github.com/droe/sslsplit](https://github.com/droe/sslsplit) ⭐ 1,874 \| 🐛 76 \| 🌐 C \| 📅 2025-10-27                                                      |
-| eCapture (eBPF)           | Hook OpenSSL/BoringSSL on Linux IoT gateways pre-encrypt - decrypts mTLS + TLS 1.3 + PFS        | [ecapture.cc](https://ecapture.cc)                                                                                                                          |
-| Wireshark + SSLKEYLOGFILE | Decrypt captured mTLS sessions from IoT gateways using NSS pre-master secret logs               | [wiki.wireshark.org/TLS](https://wiki.wireshark.org/TLS)                                                                                                    |
-| Frida                     | Runtime hook SSLContext, TrustManager, KeyManager in Android IoT companion apps                 | [frida.re](https://frida.re/)                                                                                                                               |
-| Objection                 | android sslpinning disable - strips mTLS pinning in companion apps                              | [github.com/sensepost/objection](https://github.com/sensepost/objection) ⭐ 9,319 \| 🐛 55 \| 🌐 Python \| 📅 2026-07-23                                     |
-| apk-mitm                  | Statically patches IoT companion APK to disable mTLS cert pinning                               | [github.com/shroudedcode/apk-mitm](https://github.com/shroudedcode/apk-mitm) ⭐ 5,080 \| 🐛 83 \| 🌐 TypeScript \| 📅 2024-07-24                             |
-| MagiskTrustUserCerts      | Moves custom CA to system store on rooted Android POS/kiosk to complete mTLS MITM               | [github.com/NVISOsecurity/MagiskTrustUserCerts](https://github.com/NVISOsecurity/MagiskTrustUserCerts) ⭐ 2,541 \| 🐛 10 \| 🌐 Shell \| 📅 2025-06-24        |
-| frida-multiple-unpinning  | Universal Frida script targeting 20+ mTLS/pinning patterns in hardened IoT apps                 | [github.com/httptoolkit/frida-android-unpinning](https://github.com/httptoolkit/frida-android-unpinning) ⭐ 2,255 \| 🐛 83 \| 🌐 JavaScript \| 📅 2026-08-11 |
-| NEU-SNS/IoTLS             | IMC'21 research repo - SSLKEYLOGFILE files to decrypt MITM'd mTLS connections across 32 devices | [github.com/NEU-SNS/IoTLS](https://github.com/NEU-SNS/IoTLS) ⭐ 6 \| 🐛 0 \| 🌐 Roff \| 📅 2021-09-29                                                        |
-| mitmrouter                | Linux-based IoT traffic interception router - intercepts device TLS at network level            | [github.com/nmatt0/mitmrouter](https://github.com/nmatt0/mitmrouter) ⭐ 750 \| 🐛 4 \| 🌐 Shell \| 📅 2026-05-26                                             |
+\| Tool                      | Use                                                                                             | Link                                                                                                     |
+\| ───────────────────────── | ─────────────────────────────────────────────────────────────────────────────────────────────── | ──────────────────────────────────────────────────────────────────────────────────────────────────────── |
+\| mtls-intercept            | Reverse proxy that dynamically signs client certs to MITM full mTLS sessions                    | [github.com/fungaren/mtls-intercept](https://github.com/fungaren/mtls-intercept) ⭐ 3 | 🐛 0 | 🌐 Go | 📅 2024-01-29                         |
+\| mitmproxy                 | Configure client\_certs with extracted IoT device cert to impersonate device in mTLS handshake   | [mitmproxy.org](https://mitmproxy.org)                                                                   |
+\| SSLsplit                  | Transparent mTLS proxy - forward extracted device cert to complete mutual handshake with cloud  | [github.com/droe/sslsplit](https://github.com/droe/sslsplit) ⭐ 1,874 | 🐛 76 | 🌐 C | 📅 2025-10-27                                             |
+\| eCapture (eBPF)           | Hook OpenSSL/BoringSSL on Linux IoT gateways pre-encrypt - decrypts mTLS + TLS 1.3 + PFS        | [ecapture.cc](https://ecapture.cc)                                                                       |
+\| Wireshark + SSLKEYLOGFILE | Decrypt captured mTLS sessions from IoT gateways using NSS pre-master secret logs               | [wiki.wireshark.org/TLS](https://wiki.wireshark.org/TLS)                                                 |
+\| Frida                     | Runtime hook SSLContext, TrustManager, KeyManager in Android IoT companion apps                 | [frida.re](https://frida.re/)                                                                            |
+\| Objection                 | Android sslpinning disable - strips mTLS pinning in companion apps                              | [github.com/sensepost/objection](https://github.com/sensepost/objection) ⭐ 9,321 | 🐛 55 | 🌐 Python | 📅 2026-07-23                                 |
+\| apk-mitm                  | Statically patches IoT companion APK to disable mTLS cert pinning                               | [github.com/shroudedcode/apk-mitm](https://github.com/shroudedcode/apk-mitm) ⭐ 5,080 | 🐛 83 | 🌐 TypeScript | 📅 2024-07-24                             |
+\| MagiskTrustUserCerts      | Moves custom CA to system store on rooted Android POS/kiosk to complete mTLS MITM               | [github.com/NVISOsecurity/MagiskTrustUserCerts](https://github.com/NVISOsecurity/MagiskTrustUserCerts) ⭐ 2,541 | 🐛 10 | 🌐 Shell | 📅 2025-06-24   |
+\| frida-multiple-unpinning  | Universal Frida script targeting 20+ mTLS/pinning patterns in hardened IoT apps                 | [github.com/httptoolkit/frida-android-unpinning](https://github.com/httptoolkit/frida-android-unpinning) ⭐ 2,254 | 🐛 83 | 🌐 JavaScript | 📅 2026-08-11 |
+\| NEU-SNS/IoTLS             | IMC'21 research repo - SSLKEYLOGFILE files to decrypt MITM'd mTLS connections across 32 devices | [github.com/NEU-SNS/IoTLS](https://github.com/NEU-SNS/IoTLS) ⭐ 6 | 🐛 0 | 🌐 Roff | 📅 2021-09-29                                             |
+\| mitmrouter                | Linux-based IoT traffic interception router - intercepts device TLS at network level            | [github.com/nmatt0/mitmrouter](https://github.com/nmatt0/mitmrouter) ⭐ 751 | 🐛 4 | 🌐 Shell | 📅 2026-05-26                                     |
 
 #### Blogs & Articles
 
@@ -1014,7 +914,6 @@
 * [Hands On IoT MitM Part 1 - AWS IoT MQTT + mTLS Interception](https://samrambles.com/projects/hunter-hacking/hands-on-iot-mitm-part-1/)
 * [OWASP MASTG-TECH-0012: Bypassing Certificate Pinning in Android IoT Companion Apps](https://mas.owasp.org/MASTG/techniques/android/MASTG-TECH-0012/)
 * [Theory to Practice: mTLS in Action Part 1](https://klika-tech.com/blog/2025/08/28/theory-to-practice-mtls-in-action-part-1)
-* [Firmware Analysis for IoT Penetration Testing](https://blog.attify.com/)
 * [Configuring mTLS on Mosquitto MQTT Broker](https://mosquitto.org/man/mosquitto-tls-7.html)
 * [AWS IoT Docs: X.509 Client Certificates and Fleet Provisioning](https://docs.aws.amazon.com/iot/latest/developerguide/x509-client-certs.html)
 * [Azure IoT Hub: mTLS X.509 CA Authentication Concept](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-x509ca-concept)
@@ -1061,18 +960,18 @@
 
 #### Tools
 
-* [Prowler - Cloud Security Assessment](https://github.com/prowler-cloud/prowler) ⭐ 14,600 | 🐛 280 | 🌐 Python | 📅 2026-08-17
-* [ScoutSuite - Multi-cloud Security Auditing](https://github.com/nccgroup/ScoutSuite) ⭐ 7,791 | 🐛 295 | 🌐 Python | 📅 2025-09-23
-* [Pacu - AWS Exploitation Framework](https://github.com/RhinoSecurityLabs/pacu) ⭐ 5,303 | 🐛 37 | 🌐 Python | 📅 2026-05-19
+* [Prowler - Cloud Security Assessment](https://github.com/prowler-cloud/prowler) ⭐ 14,612 | 🐛 270 | 🌐 Python | 📅 2026-08-18
+* [ScoutSuite - Multi-cloud Security Auditing](https://github.com/nccgroup/ScoutSuite) ⭐ 7,793 | 🐛 295 | 🌐 Python | 📅 2025-09-23
+* [Pacu - AWS Exploitation Framework](https://github.com/RhinoSecurityLabs/pacu) ⭐ 5,305 | 🐛 37 | 🌐 Python | 📅 2026-05-19
 * [S3Scanner - Leaky Bucket Discovery](https://github.com/sa7mon/S3Scanner) ⭐ 3,163 | 🐛 41 | 🌐 Go | 📅 2026-08-03
-* [CloudFox - Cloud Attack Paths](https://github.com/BishopFox/cloudfox) ⭐ 2,557 | 🐛 12 | 🌐 Go | 📅 2026-05-26
+* [CloudFox - Cloud Attack Paths](https://github.com/BishopFox/cloudfox) ⭐ 2,558 | 🐛 12 | 🌐 Go | 📅 2026-05-26
 * [Cloudfoxable Labs](https://github.com/BishopFox/cloudfoxable) ⭐ 468 | 🐛 1 | 🌐 Python | 📅 2026-05-01
 * [AWS Security Pentesting Resources](https://github.com/redskycyber/Cloud-Security/blob/main/AWS-Security-Pentesting-Resources.md) ⭐ 304 | 🐛 1 | 📅 2024-07-21
 
 #### Vulnerabilities
 
 * [7 Best AWS Pentesting Tools 2026](https://www.getastra.com/blog/cloud/aws/aws-pentesting-tools/)
-* [PayloadsAllTheThings - AWS Pentest](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Cloud%20-%20AWS%20Pentest.md) ⭐ 80,109 | 🐛 34 | 🌐 Python | 📅 2026-08-09
+* [PayloadsAllTheThings - AWS Pentest](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Cloud%20-%20AWS%20Pentest.md) ⭐ 80,134 | 🐛 34 | 🌐 Python | 📅 2026-08-09
 
 ### Firebase / Cloud Misconfigurations
 
@@ -1120,7 +1019,7 @@
 * [iOS Pentesting Guide](https://web.securityinnovation.com/hubfs/iOS%20Hacking%20Guide.pdf)
 * [OWASP Mobile Security Testing Guide](https://owasp.org/www-project-mobile-security-testing-guide/)
 * [An iOS hacker tries Android](https://googleprojectzero.blogspot.com/2020/12/an-ios-hacker-tries-android.html)
-* [Analyzing IOS Kernel Panic Logs](https://8ksec.io/analyzing-kernel-panic-ios/)
+* [Analyzing iOS Kernel Panic Logs](https://8ksec.io/analyzing-kernel-panic-ios/)
 * [Blasting Past iOS 18](https://blog.dfsec.com/ios/2025/05/30/blasting-past-ios-18/)
 * [Emulating an iPhone in QEMU](https://eshard.com/posts/emulating-ios-14-with-qemu)
 * [First analysis of Apple's USB Restricted Mode bypass (CVE-2025-24200)](https://blog.quarkslab.com/first-analysis-of-apples-usb-restricted-mode-bypass-cve-2025-24200.html)
@@ -1143,7 +1042,7 @@
 ### Automotive Security
 
 * [Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security) ⭐ 4,447 | 🐛 2 | 📅 2026-05-30
-* [Awesome CAN Bus - Curated Resources](https://github.com/iDoka/awesome-canbus) ⭐ 3,420 | 🐛 5 | 📅 2026-08-07
+* [Awesome CAN Bus - Curated Resources](https://github.com/iDoka/awesome-canbus) ⭐ 3,421 | 🐛 5 | 📅 2026-08-07
 * [Subaru Head Unit Jailbreak](https://github.com/sgayou/subaru-starlink-research/blob/master/doc/README.md) ⭐ 599 | 🐛 1 | 📅 2020-09-28
 * [Car Hacking Village](https://www.carhackingvillage.com/)
 * [Jeep Hack](https://illmatics.com/Remote%20Car%20Hacking.pdf)
@@ -1219,23 +1118,23 @@
 
 #### Flipper Zero
 
-* [NullSec Flipper Suite](https://github.com/bad-antics/nullsec-flipper-suite) ⭐ 60 | 🐛 2 | 🌐 Python | 📅 2026-03-11 - Flipper Zero payload collection for RF, RFID/NFC, BadUSB, infrared and wireless pentesting.
+* [NullSec Flipper Suite](https://github.com/bad-antics/nullsec-flipper-suite) ⭐ 61 | 🐛 2 | 🌐 Python | 📅 2026-03-11 - Flipper Zero payload collection for RF, RFID/NFC, BadUSB, infrared and wireless pentesting.
 * [PineFlip](https://github.com/bad-antics/pineflip) ⭐ 4 | 🐛 0 | 🌐 Rust | 📅 2026-03-05 - Flipper Zero companion app for Linux with screen mirroring, file manager and firmware management.
 
 #### Hak5
 
 * [Hak5 Field Kits](https://hakshop.com/)
-* [NullSec Pineapple Suite](https://github.com/bad-antics/nullsec-pineapple-suite) ⭐ 80 | 🐛 1 | 🌐 Shell | 📅 2026-04-23 - WiFi Pineapple payload collection for deauth, evil twin, handshake capture and network recon.
+* [NullSec Pineapple Suite](https://github.com/bad-antics/nullsec-pineapple-suite) ⭐ 82 | 🐛 1 | 🌐 Shell | 📅 2026-04-23 - WiFi Pineapple payload collection for deauth, evil twin, handshake capture and network recon.
 
 ### Software Tools
 
 #### Exploitation Frameworks
 
-* [RouterSploit](https://github.com/threat9/routersploit) ⭐ 13,216 | 🐛 93 | 🌐 Python | 📅 2026-05-05
+* [RouterSploit](https://github.com/threat9/routersploit) ⭐ 13,215 | 🐛 93 | 🌐 Python | 📅 2026-05-05
 * [PRET - Printer Exploitation Toolkit](https://github.com/RUB-NDS/PRET) ⭐ 4,295 | 🐛 73 | 🌐 Python | 📅 2024-08-02
-* [Firmware Analysis Toolkit (FAT)](https://github.com/attify/firmware-analysis-toolkit) ⭐ 1,583 | 🐛 51 | 🌐 Python | 📅 2024-09-16
+* [Firmware Analysis Toolkit (FAT)](https://github.com/attify/firmware-analysis-toolkit) ⭐ 1,581 | 🐛 51 | 🌐 Python | 📅 2024-09-16
 * [HomePwn](https://github.com/ElevenPaths/HomePWN) ⭐ 931 | 🐛 5 | 🌐 Python | 📅 2022-12-27
-* [HAL - Hardware Analyzer](https://github.com/emsec/hal) ⭐ 817 | 🐛 19 | 🌐 C++ | 📅 2026-08-17
+* [HAL - Hardware Analyzer](https://github.com/emsec/hal) ⭐ 819 | 🐛 19 | 🌐 C++ | 📅 2026-08-17
 * [ISF - Industrial Security Framework](https://github.com/w3h/isf) ⭐ 257 | 🐛 8 | 🌐 Python | 📅 2020-10-09
 * [PENIOT](https://github.com/yakuza8/peniot) ⭐ 234 | 🐛 2 | 🌐 Python | 📅 2022-02-22
 * [BlueSploit](https://github.com/V33RU/bluesploit) ⭐ 89 | 🐛 3 | 🌐 Python | 📅 2026-07-27
@@ -1251,8 +1150,8 @@
 
 ### Fuzzing Tools
 
-* [Syzkaller - Kernel Fuzzer](https://github.com/google/syzkaller) ⭐ 6,301 | 🐛 616 | 🌐 Go | 📅 2026-08-17
-* [Boofuzz](https://github.com/jtpereyda/boofuzz) ⭐ 2,354 | 🐛 101 | 🌐 Python | 📅 2026-08-06
+* [Syzkaller - Kernel Fuzzer](https://github.com/google/syzkaller) ⭐ 6,302 | 🐛 617 | 🌐 Go | 📅 2026-08-17
+* [Boofuzz](https://github.com/jtpereyda/boofuzz) ⭐ 2,355 | 🐛 101 | 🌐 Python | 📅 2026-08-06
 * [parking-game-fuzzer](https://github.com/addisoncrump/parking-game-fuzzer) ⭐ 84 | 🐛 0 | 🌐 Rust | 📅 2025-09-11
 * [The art of Fuzzing: Introduction](https://web.archive.org/web/2024/https://bushido-sec.com/index.php/2023/06/19/the-art-of-fuzzing/)
 * [A LibAFL Introductory Workshop](https://www.atredis.com/blog/2023/12/4/a-libafl-introductory-workshop)
@@ -1305,10 +1204,10 @@
 * [Wigle](https://wigle.net/)
 * [Hunter.io](https://hunter.io/)
 * [BuiltWith](https://builtwith.com/)
-* [Recon-ng](https://github.com/lanmaster53/recon-ng) ⭐ 5,855 | 🐛 38 | 🌐 Python | 📅 2024-11-01
+* [Recon-ng](https://github.com/lanmaster53/recon-ng) ⭐ 5,856 | 🐛 38 | 🌐 Python | 📅 2024-11-01
 * [PublicWWW](https://publicwww.com/)
 * [FCC ID Database](https://fccid.io/)
-* [CVE PoC Search](https://labs.jamessawyer.co.uk/cves/) - Search public GitHub PoC repositories by CVE ID
+* [CVE PoC Search](https://labs.jamessawyer.co.uk/cves/) - Search public GitHub PoC repositories by CVE ID.
 
 ***
 
@@ -1338,7 +1237,7 @@
 * [Compiler Options Hardening Guide for C and C++](https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html)
 * [Linux Hardening Guide](https://madaidans-insecurities.github.io/guides/linux-hardening.html)
 * [Docker Security - Step-by-Step Hardening](https://reynardsec.com/en/docker-platform-security-step-by-step-hardening/)
-* [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) ⭐ 30,286 | 🐛 34 | 📅 2026-07-13
+* [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) ⭐ 30,291 | 🐛 34 | 📅 2026-07-13
 
 #### Guidelines and Standards
 
@@ -1371,7 +1270,7 @@
 
 ### Cheatsheets
 
-* [THC's favourite Tips, Tricks & Hacks](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) ⭐ 3,866 | 🐛 5 | 🌐 Shell | 📅 2026-06-30
+* [THC's favourite Tips, Tricks & Hacks](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) ⭐ 3,867 | 🐛 5 | 🌐 Shell | 📅 2026-06-30
 * [Pentest Hardware Handbook](https://github.com/unprovable/PentestHardware) ⭐ 507 | 🐛 2 | 📅 2019-05-29
 * [Hardware Hacking Cheatsheet](https://github.com/arunmagesh/hw_hacking_cheatsheet) ⭐ 157 | 🐛 0 | 📅 2024-02-19
 * [Nmap Tutorial](https://github.com/gnebbia/nmap_tutorial) ⭐ 122 | 🐛 0 | 🌐 HTML | 📅 2024-07-31
@@ -1389,7 +1288,7 @@
 
 * [Shodan Pentesting Guide](https://web.archive.org/web/2022/https://community.turgensec.com/shodan-pentesting-guide/)
 * [Modern Vulnerability Research on Embedded Systems](https://breaking-bits.gitbook.io/breaking-bits/vulnerability-discovery/reverse-engineering/modern-approaches-toward-embedded-research)
-* [Awesome Embedded Systems Vulnerability Research](https://github.com/IamAlch3mist/Awesome-Embedded-Systems-Vulnerability-Research) ⭐ 513 | 🐛 0 | 📅 2026-08-17
+* [Awesome Embedded Systems Vulnerability Research](https://github.com/IamAlch3mist/Awesome-Embedded-Systems-Vulnerability-Research) ⭐ 514 | 🐛 0 | 📅 2026-08-17
 
 ### YouTube Channels
 
@@ -1422,7 +1321,7 @@
 * [Hardware Security Training, Hands-on! (2023)](https://link.springer.com/book/10.1007/978-3-031-31034-8)
 * [Hardware Security: Challenges and Solutions (2025)](https://www.amazon.in/Hardware-Security-Challenges-Ashutosh-Mishra/dp/3031812123)
 * [Mastering Hardware Hacking (2025)](https://www.amazon.in/Hacking-Machine-Engineering-Hardware-Embedded/dp/B0F29WV5HF)
-* [Ultimate Hardware Hacking Gear Guide](https://github.com/jcldf/ultimate-hardware-hacking-gear-guide-) ⭐ 253 | 🐛 0 | 📅 2024-08-01
+* [Ultimate Hardware Hacking Gear Guide](https://github.com/jcldf/ultimate-hardware-hacking-gear-guide-) ⭐ 252 | 🐛 0 | 📅 2024-08-01
 * [Microcontroller Exploits (2024)](https://nostarch.com/microcontroller-exploits)
 * [Engineering Secure Devices - Dominik Merli (2024)](https://nostarch.com/engineering-secure-devices)
 * [Cryptography and Embedded Systems Security - Hou & Breier (2024)](https://link.springer.com/book/10.1007/978-3-031-62205-2)
@@ -1432,7 +1331,6 @@
 * [The Firmware Handbook - Jack Ganssle (2004)](https://www.amazon.com/Firmware-Handbook-Embedded-Technology/dp/075067606X)
 * [Learning Linux Binary Analysis - Ryan O'Neill (2016)](https://www.packtpub.com/en-bg/product/learning-linux-binary-analysis-9781782167112)
 * [Fuzzing Against the Machine (2023)](https://www.packtpub.com/product/fuzzing-against-the-machine/9781804614976)
-* [Practical Binary Analysis - Dennis Andriesse (2018)](https://nostarch.com/binaryanalysis)
 * [Rootkits and Bootkits - Matrosov, Rodionov, Bratus (2019)](https://nostarch.com/rootkits)
 * [Ghidra Software Reverse Engineering 2nd Edition (2025)](https://www.amazon.in/Ghidra-Software-Reverse-Engineering-Beginners-Second/dp/B0DJGQ91R5)
 * [The Ghidra Book 2nd Edition - Nance & Eagle (2026)](https://nostarch.com/ghidra-book-2e)
@@ -1497,7 +1395,7 @@
 ### Vulnerable Applications
 
 * [ARM-X CTF](https://github.com/therealsaumil/armx) ⭐ 871 | 🐛 12 | 🌐 Python | 📅 2025-08-22
-* [BLE CTF](https://github.com/hackgnar/ble_ctf) ⭐ 775 | 🐛 1 | 🌐 C | 📅 2026-08-07
+* [BLE CTF](https://github.com/hackgnar/ble_ctf) ⭐ 774 | 🐛 1 | 🌐 C | 📅 2026-08-07
 * [DVRF - Damn Vulnerable Router Firmware](https://github.com/praetorian-code/DVRF) ⚠️ Archived
 * [DVID - Damn Vulnerable IoT Device](https://github.com/Vulcainreo/DVID) ⭐ 225 | 🐛 3 | 🌐 C | 📅 2024-02-12
 * [IoTGoat - Vulnerable OpenWrt Firmware](https://github.com/scriptingxss/IoTGoat) ⭐ 182 | 🐛 1 | 🌐 C | 📅 2020-03-29
@@ -1531,8 +1429,6 @@
 * [RHme-2017](https://github.com/Riscure/Rhme-2017) ⭐ 0 | 🐛 0 | 📅 2024-08-28
 
 #### IoT CTFs
-
-* [IoTSec CTF - IoTGoat](https://github.com/scriptingxss/IoTGoat) ⭐ 182 | 🐛 1 | 🌐 C | 📅 2020-03-29
 
 #### Embedded/Firmware CTFs
 
@@ -1626,7 +1522,6 @@
 
 ### Villages
 
-* [IoT Village](https://www.iotvillage.org/index.html)
 * [RF Hackers](https://rfhackers.com/)
 
 ### Researchers to Follow
@@ -1718,7 +1613,7 @@
 ### TrustZone and TEE Research
 
 * [ARM TrustZone: pivoting to the secure world](https://blog.thalium.re/posts/pivoting_to_the_secure_world/)
-* [TEE Reversing](https://github.com/enovella/TEE-reversing) ⭐ 1,033 | 🐛 0 | 📅 2026-01-07
+* [TEE Reversing](https://github.com/enovella/TEE-reversing) ⭐ 1,034 | 🐛 0 | 📅 2026-01-07
 * [A Deep Dive into Samsung's TrustZone - Parts 1-3](https://blog.quarkslab.com/a-deep-dive-into-samsungs-trustzone-part-1.html)
 * [Researching Xiaomi's TEE](https://research.checkpoint.com/2022/researching-xiaomis-tee/)
 * [Kinibi TEE: Trusted Application Exploitation](https://www.synacktiv.com/en/publications/kinibi-tee-trusted-application-exploitation.html)
@@ -1745,10 +1640,6 @@
 
 Contributions welcome. Submit a PR with new resources following the existing structure.
 
-## License
-
-This collection is provided for educational and research purposes.
-
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
