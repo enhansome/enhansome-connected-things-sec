@@ -9,6 +9,35 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "LibSWD - Serial Wire Debug Open Library",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 33256935,
+                    "language": "C",
+                    "last_commit": "2025-12-08T17:31:19Z",
+                    "owner": "cederom",
+                    "repo": "LibSWD",
+                    "stars": 132
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "SWD (Serial Wire Debug)"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Interface Attacks"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "Fuzzing, Binary Analysis, IoT Security Collection",
                   "description": null,
                   "children": [],
@@ -158,7 +187,7 @@
                     "last_commit": "2026-08-13T13:47:49Z",
                     "owner": "bettercap",
                     "repo": "bettercap",
-                    "stars": 19850
+                    "stars": 19853
                   }
                 },
                 {
@@ -335,6 +364,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "Ubertooth One",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 9712011,
+                    "language": "C",
+                    "last_commit": "2026-03-19T15:58:24Z",
+                    "owner": "greatscottgadgets",
+                    "repo": "ubertooth",
+                    "stars": 2124
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Tools - Hardware"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "InternalBlue - Bluetooth Experimentation Framework",
                   "description": null,
                   "children": [],
@@ -493,6 +544,28 @@
                 "repo": "chirpotle",
                 "stars": 41
               }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "LoRa Craft - Packet Interception",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 234043243,
+                    "language": "Python",
+                    "last_commit": "2025-11-13T18:12:11Z",
+                    "owner": "PentHertz",
+                    "repo": "LoRa_Craft",
+                    "stars": 127
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Tools"
             }
           ],
           "description": null,
@@ -615,6 +688,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Awesome RFID/NFC Security Talks",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 402670009,
+                "language": null,
+                "last_commit": "2026-04-29T14:54:01Z",
+                "owner": "doegox",
+                "repo": "awesome-rfid-talks",
+                "stars": 187
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "NFC/RFID"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Hi, My Name is Keyboard",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 242890111,
+                "language": null,
+                "last_commit": "2024-01-11T14:02:16Z",
+                "owner": "skysafe",
+                "repo": "reblog",
+                "stars": 773
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "USB"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "TETRA Decoder - Open Source TETRA Receiver",
               "description": null,
               "children": [],
@@ -705,7 +822,7 @@
                 "last_commit": "2026-08-11T15:27:34Z",
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14262
+                "stars": 14264
               }
             },
             {
@@ -874,10 +991,10 @@
                 "archived": false,
                 "id": 95903234,
                 "language": "RobotFramework",
-                "last_commit": "2026-08-24T07:48:38Z",
+                "last_commit": "2026-08-24T11:15:41Z",
                 "owner": "renode",
                 "repo": "renode",
-                "stars": 2762
+                "stars": 2763
               }
             },
             {
@@ -907,7 +1024,7 @@
                 "last_commit": "2026-08-24T08:08:35Z",
                 "owner": "bochs-emu",
                 "repo": "Bochs",
-                "stars": 1348
+                "stars": 1349
               }
             },
             {
@@ -1008,6 +1125,35 @@
         {
           "children": [
             {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Zephyr RTOS GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 59771425,
+                    "language": "C",
+                    "last_commit": "2026-08-24T12:51:38Z",
+                    "owner": "zephyrproject-rtos",
+                    "repo": "zephyr",
+                    "stars": 16296
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Zephyr RTOS"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "RTOS Security"
+        },
+        {
+          "children": [
+            {
               "node_type": "item",
               "title": "Ghidra",
               "description": null,
@@ -1019,7 +1165,7 @@
                 "last_commit": "2026-08-24T08:41:59Z",
                 "owner": "NationalSecurityAgency",
                 "repo": "ghidra",
-                "stars": 72732
+                "stars": 72739
               }
             },
             {
@@ -1034,7 +1180,7 @@
                 "last_commit": "2026-08-18T13:32:43Z",
                 "owner": "frida",
                 "repo": "frida",
-                "stars": 21714
+                "stars": 21717
               }
             },
             {
@@ -1049,7 +1195,7 @@
                 "last_commit": "2026-08-22T19:13:16Z",
                 "owner": "rizinorg",
                 "repo": "cutter",
-                "stars": 19556
+                "stars": 19558
               }
             },
             {
@@ -1126,6 +1272,28 @@
                 "repo": "ghidriff",
                 "stars": 802
               }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Debugger Ghidra Class",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 173228436,
+                    "language": "Java",
+                    "last_commit": "2026-08-24T08:41:59Z",
+                    "owner": "NationalSecurityAgency",
+                    "repo": "ghidra",
+                    "stars": 72739
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Ghidra Tutorials"
             }
           ],
           "description": null,
@@ -1138,6 +1306,57 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "MQTT Topic ACL Linter",
+                  "description": "Local-only static analysis for invalid, broad, duplicate, and overlapping MQTT topic-filter ACL rules; does not connect to a broker or replace a security audit.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1329674543,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-10T10:00:18Z",
+                    "owner": "visoar",
+                    "repo": "mqtt-acl-linter",
+                    "stars": 0
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Tools"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Deep Learning UDF for MQTT IoT Anomaly Detection",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 142325304,
+                    "language": "Java",
+                    "last_commit": "2023-12-16T17:09:37Z",
+                    "owner": "kaiwaehner",
+                    "repo": "ksql-udf-deep-learning-mqtt-iot",
+                    "stars": 307
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Applications"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "MQTT"
+        },
         {
           "children": [
             {
@@ -1191,11 +1410,55 @@
               "description": null,
               "node_type": "group",
               "title": "Tools - Software"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Raspberry Pi / Arduino + 6LoWPAN",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 91191972,
+                    "language": "C",
+                    "last_commit": "2026-08-24T11:32:22Z",
+                    "owner": "contiki-ng",
+                    "repo": "contiki-ng",
+                    "stars": 1521
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Tools - Hardware"
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "CoAP"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome Industrial Protocols",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 654516474,
+                "language": null,
+                "last_commit": "2026-07-06T08:00:49Z",
+                "owner": "Orange-Cyberdefense",
+                "repo": "awesome-industrial-protocols",
+                "stars": 760
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "IoT Protocols Overview"
         }
       ],
       "title": "Network and Web Protocols"
@@ -1216,10 +1479,10 @@
                     "archived": false,
                     "id": 66474729,
                     "language": "Python",
-                    "last_commit": "2026-08-24T09:37:51Z",
+                    "last_commit": "2026-08-24T13:16:24Z",
                     "owner": "prowler-cloud",
                     "repo": "prowler",
-                    "stars": 14665
+                    "stars": 14666
                   }
                 },
                 {
@@ -1234,7 +1497,7 @@
                     "last_commit": "2025-09-23T18:33:52Z",
                     "owner": "nccgroup",
                     "repo": "ScoutSuite",
-                    "stars": 7797
+                    "stars": 7798
                   }
                 },
                 {
@@ -1249,7 +1512,7 @@
                     "last_commit": "2026-05-19T22:31:37Z",
                     "owner": "RhinoSecurityLabs",
                     "repo": "pacu",
-                    "stars": 5307
+                    "stars": 5308
                   }
                 },
                 {
@@ -1316,6 +1579,28 @@
               "description": null,
               "node_type": "group",
               "title": "Tools"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "PayloadsAllTheThings - AWS Pentest",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 71220757,
+                    "language": "Python",
+                    "last_commit": "2026-08-09T13:38:47Z",
+                    "owner": "swisskyrepo",
+                    "repo": "PayloadsAllTheThings",
+                    "stars": 80323
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Vulnerabilities"
             }
           ],
           "description": null,
@@ -1342,7 +1627,7 @@
                 "last_commit": "2026-05-30T00:29:18Z",
                 "owner": "jaredthecoder",
                 "repo": "awesome-vehicle-security",
-                "stars": 4505
+                "stars": 4511
               }
             },
             {
@@ -1392,6 +1677,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "NullSec Ducky Payloads",
+                  "description": "Rubber Ducky BadUSB payload collection for Windows, macOS and Linux.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1149326036,
+                    "language": "Python",
+                    "last_commit": "2026-02-11T05:02:51Z",
+                    "owner": "bad-antics",
+                    "repo": "nullsec-ducky-payloads",
+                    "stars": 7
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "USB"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "NullSec Flipper Suite",
                   "description": "Flipper Zero payload collection for RF, RFID/NFC, BadUSB, infrared and wireless pentesting.",
                   "children": [],
@@ -1424,6 +1731,28 @@
               "description": null,
               "node_type": "group",
               "title": "Flipper Zero"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "NullSec Pineapple Suite",
+                  "description": "WiFi Pineapple payload collection for deauth, evil twin, handshake capture and network recon.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1147106211,
+                    "language": "Shell",
+                    "last_commit": "2026-04-23T22:08:16Z",
+                    "owner": "bad-antics",
+                    "repo": "nullsec-pineapple-suite",
+                    "stars": 83
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Hak5"
             }
           ],
           "description": null,
@@ -1558,6 +1887,28 @@
               "description": null,
               "node_type": "group",
               "title": "Exploitation Frameworks"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Samsung Firmware Magic",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 254223883,
+                    "language": "Python",
+                    "last_commit": "2021-04-11T13:08:57Z",
+                    "owner": "chrivers",
+                    "repo": "samsung-firmware-magic",
+                    "stars": 237
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Firmware Analysis"
             }
           ],
           "description": null,
@@ -1575,7 +1926,7 @@
                 "archived": false,
                 "id": 44087204,
                 "language": "Go",
-                "last_commit": "2026-08-24T09:17:04Z",
+                "last_commit": "2026-08-24T13:58:22Z",
                 "owner": "google",
                 "repo": "syzkaller",
                 "stars": 6307
@@ -1610,6 +1961,50 @@
                 "repo": "parking-game-fuzzer",
                 "stars": 85
               }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "FuzzingPaper Collection",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 174499987,
+                    "language": null,
+                    "last_commit": "2026-03-19T17:46:12Z",
+                    "owner": "wcventure",
+                    "repo": "FuzzingPaper",
+                    "stars": 2768
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Fundamentals"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Awesome Embedded Fuzzing",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 338781253,
+                    "language": "Python",
+                    "last_commit": "2022-07-05T10:25:57Z",
+                    "owner": "andreia-oca",
+                    "repo": "awesome-embedded-fuzzing",
+                    "stars": 54
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "IoT-Specific Fuzzing"
             },
             {
               "children": [
@@ -1719,6 +2114,28 @@
           "description": null,
           "node_type": "group",
           "title": "Pentesting Operating Systems"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Recon-ng",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 178254323,
+                "language": "Python",
+                "last_commit": "2024-11-01T20:11:51Z",
+                "owner": "lanmaster53",
+                "repo": "recon-ng",
+                "stars": 5866
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Search Engines"
         }
       ],
       "title": "Tools"
@@ -1792,6 +2209,79 @@
           "description": null,
           "node_type": "group",
           "title": "Cheatsheets"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "IoT Vulnerabilities with CVE and PoC",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 516227558,
+                "language": null,
+                "last_commit": "2024-05-06T07:35:55Z",
+                "owner": "z1r00",
+                "repo": "IOT_Vul",
+                "stars": 23
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Vulnerability Guides"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome Embedded Systems Vulnerability Research",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 660468797,
+                "language": null,
+                "last_commit": "2026-08-21T07:27:48Z",
+                "owner": "IamAlch3mist",
+                "repo": "Awesome-Embedded-Systems-Vulnerability-Research",
+                "stars": 514
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Pentesting Guides"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Ultimate Hardware Hacking Gear Guide",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 826053445,
+                    "language": null,
+                    "last_commit": "2024-08-01T21:14:27Z",
+                    "owner": "jcldf",
+                    "repo": "ultimate-hardware-hacking-gear-guide-",
+                    "stars": 252
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Hardware Hacking"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Books"
         }
       ],
       "title": "Learning Resources"
@@ -1828,7 +2318,7 @@
                 "last_commit": "2026-08-07T15:55:23Z",
                 "owner": "hackgnar",
                 "repo": "ble_ctf",
-                "stars": 775
+                "stars": 776
               }
             },
             {
@@ -1860,6 +2350,50 @@
                 "repo": "IoTGoat",
                 "stars": 183
               }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Hardware Hacking 101",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 177657218,
+                    "language": "Python",
+                    "last_commit": "2019-03-28T06:55:42Z",
+                    "owner": "rdomanski",
+                    "repo": "hardware_hacking",
+                    "stars": 56
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Hardware"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Damn Vulnerable Chemical Process",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 28555731,
+                    "language": "HTML",
+                    "last_commit": "2015-12-13T20:38:12Z",
+                    "owner": "satejnik",
+                    "repo": "DVCP-TE",
+                    "stars": 83
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Industrial"
             }
           ],
           "description": null,
@@ -1868,6 +2402,21 @@
         },
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "RHme Series (2015-2017)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 846595282,
+                "language": null,
+                "last_commit": "2024-08-25T18:46:17Z",
+                "owner": "Riscure",
+                "repo": "RHme-2015",
+                "stars": 0
+              }
+            },
             {
               "children": [
                 {
@@ -1912,10 +2461,89 @@
         }
       ],
       "title": "Labs and CTFs"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Besder IP Camera Security Analysis",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 372030115,
+                "language": "Lua",
+                "last_commit": "2026-05-08T16:56:46Z",
+                "owner": "KostasEreksonas",
+                "repo": "Besder-6024PB-XMA501-ip-camera-security-investigation",
+                "stars": 33
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Technical Research"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "lexmark printer haxx",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 587262197,
+                    "language": "Python",
+                    "last_commit": "2024-10-27T08:10:30Z",
+                    "owner": "blasty",
+                    "repo": "lexmark",
+                    "stars": 209
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Printers"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Device-Specific Research"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TEE Reversing",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 161059470,
+                "language": null,
+                "last_commit": "2026-01-07T15:23:21Z",
+                "owner": "enovella",
+                "repo": "TEE-reversing",
+                "stars": 1036
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "TrustZone and TEE Research"
+        }
+      ],
+      "title": "Research and Community"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:59:13.120Z",
+    "last_updated": "2026-08-24T14:04:34.980Z",
     "original_repository": "V33RU/awesome-connected-things-sec",
     "original_repository_id": 133933655,
     "original_repository_sha": "26a9e37959d4ef95a03f7808e94383ef23a5eeb6",
