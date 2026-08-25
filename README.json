@@ -187,7 +187,7 @@
                     "last_commit": "2026-08-13T13:47:49Z",
                     "owner": "bettercap",
                     "repo": "bettercap",
-                    "stars": 19856
+                    "stars": 19857
                   }
                 },
                 {
@@ -991,7 +991,7 @@
                 "archived": false,
                 "id": 95903234,
                 "language": "RobotFramework",
-                "last_commit": "2026-08-24T11:15:41Z",
+                "last_commit": "2026-08-25T08:32:56Z",
                 "owner": "renode",
                 "repo": "renode",
                 "stars": 2766
@@ -1135,10 +1135,10 @@
                     "archived": false,
                     "id": 59771425,
                     "language": "C",
-                    "last_commit": "2026-08-25T00:12:58Z",
+                    "last_commit": "2026-08-25T09:24:36Z",
                     "owner": "zephyrproject-rtos",
                     "repo": "zephyr",
-                    "stars": 16303
+                    "stars": 16307
                   }
                 }
               ],
@@ -1165,7 +1165,7 @@
                 "last_commit": "2026-08-24T18:27:21Z",
                 "owner": "NationalSecurityAgency",
                 "repo": "ghidra",
-                "stars": 72765
+                "stars": 72770
               }
             },
             {
@@ -1180,7 +1180,7 @@
                 "last_commit": "2026-08-18T13:32:43Z",
                 "owner": "frida",
                 "repo": "frida",
-                "stars": 21729
+                "stars": 21731
               }
             },
             {
@@ -1195,7 +1195,7 @@
                 "last_commit": "2026-08-22T19:13:16Z",
                 "owner": "rizinorg",
                 "repo": "cutter",
-                "stars": 19565
+                "stars": 19568
               }
             },
             {
@@ -1207,7 +1207,7 @@
                 "archived": false,
                 "id": 40328394,
                 "language": "Python",
-                "last_commit": "2026-08-25T05:35:45Z",
+                "last_commit": "2026-08-25T08:24:53Z",
                 "owner": "angr",
                 "repo": "angr",
                 "stars": 9033
@@ -1287,7 +1287,7 @@
                     "last_commit": "2026-08-24T18:27:21Z",
                     "owner": "NationalSecurityAgency",
                     "repo": "ghidra",
-                    "stars": 72765
+                    "stars": 72770
                   }
                 }
               ],
@@ -1385,7 +1385,7 @@
                     "archived": false,
                     "id": 39396258,
                     "language": "C",
-                    "last_commit": "2026-08-24T15:35:51Z",
+                    "last_commit": "2026-08-25T06:49:17Z",
                     "owner": "obgm",
                     "repo": "libcoap",
                     "stars": 918
@@ -1479,10 +1479,10 @@
                     "archived": false,
                     "id": 66474729,
                     "language": "Python",
-                    "last_commit": "2026-08-24T19:26:07Z",
+                    "last_commit": "2026-08-25T09:44:17Z",
                     "owner": "prowler-cloud",
                     "repo": "prowler",
-                    "stars": 14671
+                    "stars": 14672
                   }
                 },
                 {
@@ -1542,7 +1542,7 @@
                     "last_commit": "2026-08-20T18:39:52Z",
                     "owner": "BishopFox",
                     "repo": "cloudfox",
-                    "stars": 2561
+                    "stars": 2562
                   }
                 },
                 {
@@ -1594,7 +1594,7 @@
                     "last_commit": "2026-08-09T13:38:47Z",
                     "owner": "swisskyrepo",
                     "repo": "PayloadsAllTheThings",
-                    "stars": 80343
+                    "stars": 80347
                   }
                 }
               ],
@@ -1627,7 +1627,7 @@
                 "last_commit": "2026-05-30T00:29:18Z",
                 "owner": "jaredthecoder",
                 "repo": "awesome-vehicle-security",
-                "stars": 4521
+                "stars": 4523
               }
             },
             {
@@ -1832,7 +1832,7 @@
                     "archived": false,
                     "id": 169076171,
                     "language": "C++",
-                    "last_commit": "2026-08-24T07:42:26Z",
+                    "last_commit": "2026-08-25T07:39:37Z",
                     "owner": "emsec",
                     "repo": "hal",
                     "stars": 821
@@ -2129,7 +2129,7 @@
                 "last_commit": "2024-11-01T20:11:51Z",
                 "owner": "lanmaster53",
                 "repo": "recon-ng",
-                "stars": 5867
+                "stars": 5869
               }
             }
           ],
@@ -2543,7 +2543,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:53:12.333Z",
+    "last_updated": "2026-08-25T09:48:28.856Z",
     "original_repository": "V33RU/awesome-connected-things-sec",
     "original_repository_id": 133933655,
     "original_repository_sha": "26a9e37959d4ef95a03f7808e94383ef23a5eeb6",
