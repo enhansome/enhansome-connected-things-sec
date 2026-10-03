@@ -10,7 +10,7 @@
                 {
                   "node_type": "item",
                   "title": "LibSWD - Serial Wire Debug Open Library",
-                  "description": null,
+                  "description": "cederom/LibSWD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -45,7 +45,7 @@
                 {
                   "node_type": "item",
                   "title": "Fuzzing, Binary Analysis, IoT Security Collection",
-                  "description": null,
+                  "description": "0xricksanchez/paper_collection",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -84,7 +84,7 @@
                 {
                   "node_type": "item",
                   "title": "Attacks on Implementations of Secure Systems",
-                  "description": null,
+                  "description": "Yossioren/AttacksonImplementationsCourseBook",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -125,7 +125,7 @@
                 {
                   "node_type": "item",
                   "title": "Awesome Bluetooth Security",
-                  "description": null,
+                  "description": "engn33r/awesome-bluetooth-security",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -164,7 +164,7 @@
                 {
                   "node_type": "item",
                   "title": "AirDrop Leak - Sniffing BLE Traffic from Apple Devices",
-                  "description": null,
+                  "description": "hexway/apple_bleee",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -185,7 +185,7 @@
                 {
                   "node_type": "item",
                   "title": "BlueDucky - HID Injection on Unpatched Android (CVE-2023-45866)",
-                  "description": null,
+                  "description": "pentestfunctions/BlueDucky",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -206,7 +206,7 @@
                 {
                   "node_type": "item",
                   "title": "BLUFFS: Bluetooth Forward and Future Secrecy Attacks (CVE-2023-24023)",
-                  "description": null,
+                  "description": "francozappa/bluffs",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -234,7 +234,7 @@
                 {
                   "node_type": "item",
                   "title": "bettercap",
-                  "description": null,
+                  "description": "bettercap/bettercap",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -247,7 +247,7 @@
                     "open_issues": 44,
                     "owner": "bettercap",
                     "repo": "bettercap",
-                    "stars": 20048,
+                    "stars": 20052,
                     "topics": [
                       "ble",
                       "deauthentication-attack",
@@ -276,7 +276,7 @@
                 {
                   "node_type": "item",
                   "title": "BTLEjack - BLE Swiss Army Knife",
-                  "description": null,
+                  "description": "virtualabs/btlejack",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -297,7 +297,7 @@
                 {
                   "node_type": "item",
                   "title": "Bluing - Intelligence Gathering for Bluetooth",
-                  "description": null,
+                  "description": "fO-000/bluing",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -333,7 +333,7 @@
                 {
                   "node_type": "item",
                   "title": "crackle - Cracking BLE Encryption",
-                  "description": null,
+                  "description": "mikeryan/crackle",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -354,7 +354,7 @@
                 {
                   "node_type": "item",
                   "title": "GATTacker",
-                  "description": null,
+                  "description": "securing/gattacker",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -375,7 +375,7 @@
                 {
                   "node_type": "item",
                   "title": "BlueToolkit - Bluetooth Classic Vulnerability Testing",
-                  "description": null,
+                  "description": "sgxgsx/BlueToolkit",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -411,7 +411,7 @@
                 {
                   "node_type": "item",
                   "title": "ESP32 Bluetooth Classic Sniffer",
-                  "description": null,
+                  "description": "Matheus-Garbelini/esp32_bluetooth_classic_sniffer",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -440,7 +440,7 @@
                 {
                   "node_type": "item",
                   "title": "BrakTooth ESP32 PoC",
-                  "description": null,
+                  "description": "Matheus-Garbelini/braktooth_esp32_bluetooth_classic_attacks",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -461,7 +461,7 @@
                 {
                   "node_type": "item",
                   "title": "btproxy",
-                  "description": null,
+                  "description": "conorpp/btproxy",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -482,7 +482,7 @@
                 {
                   "node_type": "item",
                   "title": "SweynTooth BLE Attacks",
-                  "description": null,
+                  "description": "Matheus-Garbelini/sweyntooth_bluetooth_low_energy_attacks",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -503,7 +503,7 @@
                 {
                   "node_type": "item",
                   "title": "Bluetooth Hacking Collection",
-                  "description": null,
+                  "description": "zedxpace/bluetooth-hacking-",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -532,7 +532,7 @@
                 {
                   "node_type": "item",
                   "title": "DEDSEC Bluetooth Exploit",
-                  "description": null,
+                  "description": "0xbitx/DEDSEC-Bluetooth-exploit",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -560,7 +560,7 @@
                 {
                   "node_type": "item",
                   "title": "Ubertooth One",
-                  "description": null,
+                  "description": "greatscottgadgets/ubertooth",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -593,7 +593,7 @@
                 {
                   "node_type": "item",
                   "title": "InternalBlue - Bluetooth Experimentation Framework",
-                  "description": null,
+                  "description": "seemoo-lab/internalblue",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -626,7 +626,7 @@
                 {
                   "node_type": "item",
                   "title": "ice9-bluetooth-sniffer",
-                  "description": null,
+                  "description": "mikeryan/ice9-bluetooth-sniffer",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -676,7 +676,7 @@
                 {
                   "node_type": "item",
                   "title": "Killerbee",
-                  "description": null,
+                  "description": "riverloopsec/killerbee",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -697,7 +697,7 @@
                 {
                   "node_type": "item",
                   "title": "ZigDiggity",
-                  "description": null,
+                  "description": "BishopFox/zigdiggity",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -724,7 +724,7 @@
                 {
                   "node_type": "item",
                   "title": "Z3sec",
-                  "description": null,
+                  "description": "IoTsec/Z3sec",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -745,7 +745,7 @@
                 {
                   "node_type": "item",
                   "title": "zigbear",
-                  "description": null,
+                  "description": "philippnormann/zigbear",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -775,7 +775,7 @@
                 {
                   "node_type": "item",
                   "title": "Zigator",
-                  "description": null,
+                  "description": "akestoridis/zigator",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -808,7 +808,7 @@
             {
               "node_type": "item",
               "title": "LAF - LoRaWAN Auditing Framework",
-              "description": null,
+              "description": "IOActive/laf",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -837,7 +837,7 @@
             {
               "node_type": "item",
               "title": "ChirpOTLE - LoRaWAN Security Framework",
-              "description": null,
+              "description": "seemoo-lab/chirpotle",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -865,7 +865,7 @@
                 {
                   "node_type": "item",
                   "title": "LoRa Craft - Packet Interception",
-                  "description": null,
+                  "description": "PentHertz/LoRa_Craft",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -898,7 +898,7 @@
             {
               "node_type": "item",
               "title": "Awesome Cellular Hacking",
-              "description": null,
+              "description": "W00t3k/Awesome-Cellular-Hacking",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -908,7 +908,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-08-28T17:45:58Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "W00t3k",
                 "repo": "Awesome-Cellular-Hacking",
                 "stars": 4049,
@@ -928,7 +928,7 @@
             {
               "node_type": "item",
               "title": "Open5GS - Open Source 5G/4G Core",
-              "description": null,
+              "description": "open5gs/open5gs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -960,7 +960,7 @@
             {
               "node_type": "item",
               "title": "LTE Sniffer",
-              "description": null,
+              "description": "SysSec-KAIST/LTESniffer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -973,7 +973,7 @@
                 "open_issues": 26,
                 "owner": "SysSec-KAIST",
                 "repo": "LTESniffer",
-                "stars": 2235,
+                "stars": 2236,
                 "topics": [
                   "cellular",
                   "lte",
@@ -987,7 +987,7 @@
             {
               "node_type": "item",
               "title": "5G NR Jamming, Spoofing and Sniffing",
-              "description": null,
+              "description": "aligungr/UERANSIM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1015,7 +1015,7 @@
             {
               "node_type": "item",
               "title": "5Ghoul - 5G NR Attacks and Fuzzing",
-              "description": null,
+              "description": "asset-group/5ghoul-5g-nr-attacks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1036,7 +1036,7 @@
             {
               "node_type": "item",
               "title": "SCAT - Signaling Collection and Analysis Tool for Cellular",
-              "description": null,
+              "description": "fgsect/scat",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1057,7 +1057,7 @@
             {
               "node_type": "item",
               "title": "SigPloit - Telecom Signaling Exploitation Framework",
-              "description": null,
+              "description": "SigPloiter/SigPloit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1085,7 +1085,7 @@
             {
               "node_type": "item",
               "title": "Awesome RFID/NFC Security Talks",
-              "description": null,
+              "description": "doegox/awesome-rfid-talks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1113,7 +1113,7 @@
             {
               "node_type": "item",
               "title": "Hi, My Name is Keyboard",
-              "description": null,
+              "description": "skysafe/reblog",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1141,7 +1141,7 @@
             {
               "node_type": "item",
               "title": "TETRA Decoder - Open Source TETRA Receiver",
-              "description": null,
+              "description": "sq5bpf/telive",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1162,7 +1162,7 @@
             {
               "node_type": "item",
               "title": "Practical TETRA Sniffing with SDR",
-              "description": null,
+              "description": "sq5bpf/osmo-tetra-sq5bpf",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1196,7 +1196,7 @@
             {
               "node_type": "item",
               "title": "IoT Security Verification Standard (ISVS)",
-              "description": null,
+              "description": "OWASP/IoT-Security-Verification-Standard-ISVS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1217,7 +1217,7 @@
             {
               "node_type": "item",
               "title": "Hands-on Firmware Extraction, Exploration, and Emulation",
-              "description": null,
+              "description": "onekey-sec/firmware-workshop",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1245,7 +1245,7 @@
             {
               "node_type": "item",
               "title": "Binwalk v3",
-              "description": null,
+              "description": "ReFirmLabs/binwalk",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1258,7 +1258,7 @@
                 "open_issues": 98,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14391,
+                "stars": 14390,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:44.850Z"
@@ -1266,7 +1266,7 @@
             {
               "node_type": "item",
               "title": "unblob - Extraction Framework",
-              "description": null,
+              "description": "onekey-sec/unblob",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1293,7 +1293,7 @@
             {
               "node_type": "item",
               "title": "Checksec.sh",
-              "description": null,
+              "description": "slimm609/checksec",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1314,7 +1314,7 @@
             {
               "node_type": "item",
               "title": "FACT - Firmware Analysis and Comparison Tool",
-              "description": null,
+              "description": "fkie-cad/FACT_core",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1340,7 +1340,7 @@
             {
               "node_type": "item",
               "title": "fwanalyzer",
-              "description": null,
+              "description": "cruise-automation/fwanalyzer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1373,7 +1373,7 @@
             {
               "node_type": "item",
               "title": "BINSEC",
-              "description": null,
+              "description": "binsec/binsec",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1394,7 +1394,7 @@
             {
               "node_type": "item",
               "title": "fwhunt-scan - UEFI Firmware Analysis",
-              "description": null,
+              "description": "binarly-io/fwhunt-scan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1430,7 +1430,7 @@
             {
               "node_type": "item",
               "title": "Unicorn Engine - CPU Emulator",
-              "description": null,
+              "description": "unicorn-engine/unicorn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1440,10 +1440,10 @@
                 "language": "C",
                 "license": "GPL-2.0",
                 "last_commit": "2026-08-28T09:09:56Z",
-                "open_issues": 224,
+                "open_issues": 228,
                 "owner": "unicorn-engine",
                 "repo": "unicorn",
-                "stars": 9389,
+                "stars": 9396,
                 "topics": [
                   "arm",
                   "arm64",
@@ -1470,7 +1470,7 @@
             {
               "node_type": "item",
               "title": "Qiling Framework",
-              "description": null,
+              "description": "qilingframework/qiling",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1503,7 +1503,7 @@
             {
               "node_type": "item",
               "title": "Renode - Embedded Systems Emulator",
-              "description": null,
+              "description": "renode/renode",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1513,10 +1513,10 @@
                 "language": "RobotFramework",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-02T15:23:08Z",
-                "open_issues": 465,
+                "open_issues": 467,
                 "owner": "renode",
                 "repo": "renode",
-                "stars": 2969,
+                "stars": 2970,
                 "topics": [
                   "arm",
                   "embedded-systems",
@@ -1532,7 +1532,7 @@
             {
               "node_type": "item",
               "title": "PANDA - Architecture-Neutral Dynamic Analysis",
-              "description": null,
+              "description": "panda-re/panda",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1559,7 +1559,7 @@
             {
               "node_type": "item",
               "title": "Firmadyne - Automated Firmware Emulation",
-              "description": null,
+              "description": "firmadyne/firmadyne",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1572,7 +1572,7 @@
                 "open_issues": 107,
                 "owner": "firmadyne",
                 "repo": "firmadyne",
-                "stars": 2110,
+                "stars": 2111,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:44.850Z"
@@ -1580,7 +1580,7 @@
             {
               "node_type": "item",
               "title": "Bochs - x86 Emulator",
-              "description": null,
+              "description": "bochs-emu/Bochs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1589,8 +1589,8 @@
                 "id": 528991306,
                 "language": "C++",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-10-02T13:40:57Z",
-                "open_issues": 79,
+                "last_commit": "2026-10-03T00:49:03Z",
+                "open_issues": 77,
                 "owner": "bochs-emu",
                 "repo": "Bochs",
                 "stars": 1372,
@@ -1601,7 +1601,7 @@
             {
               "node_type": "item",
               "title": "FirmAE - Firmware Analysis and Emulation",
-              "description": null,
+              "description": "pr0v3rbs/FirmAE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1628,7 +1628,7 @@
             {
               "node_type": "item",
               "title": "FirmWire - Baseband Firmware Emulation",
-              "description": null,
+              "description": "FirmWire/FirmWire",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1657,7 +1657,7 @@
             {
               "node_type": "item",
               "title": "Avatar2 - Dynamic Firmware Analysis",
-              "description": null,
+              "description": "avatartwo/avatar2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1682,7 +1682,7 @@
             {
               "node_type": "item",
               "title": "S2E - Selective Symbolic Execution",
-              "description": null,
+              "description": "S2E/s2e",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1724,7 +1724,7 @@
             {
               "node_type": "item",
               "title": "SymQEMU",
-              "description": null,
+              "description": "eurecom-s3/symqemu",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1745,7 +1745,7 @@
             {
               "node_type": "item",
               "title": "HALucinator",
-              "description": null,
+              "description": "embedded-sec/halucinator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1775,7 +1775,7 @@
                 {
                   "node_type": "item",
                   "title": "Zephyr RTOS GitHub",
-                  "description": null,
+                  "description": "zephyrproject-rtos/zephyr",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1784,11 +1784,11 @@
                     "id": 59771425,
                     "language": "C",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T15:38:36Z",
-                    "open_issues": 4048,
+                    "last_commit": "2026-10-03T03:11:34Z",
+                    "open_issues": 4036,
                     "owner": "zephyrproject-rtos",
                     "repo": "zephyr",
-                    "stars": 16672,
+                    "stars": 16676,
                     "topics": [
                       "bluetooth",
                       "bluetooth-le",
@@ -1821,7 +1821,7 @@
             {
               "node_type": "item",
               "title": "Ghidra",
-              "description": null,
+              "description": "NationalSecurityAgency/ghidra",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1834,7 +1834,7 @@
                 "open_issues": 1973,
                 "owner": "NationalSecurityAgency",
                 "repo": "ghidra",
-                "stars": 80304,
+                "stars": 80366,
                 "topics": [
                   "disassembler",
                   "reverse-engineering",
@@ -1846,7 +1846,7 @@
             {
               "node_type": "item",
               "title": "Frida - Dynamic Instrumentation",
-              "description": null,
+              "description": "frida/frida",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1855,11 +1855,11 @@
                 "id": 9405122,
                 "language": "Meson",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T01:13:49Z",
+                "last_commit": "2026-10-02T18:53:42Z",
                 "open_issues": 1972,
                 "owner": "frida",
                 "repo": "frida",
-                "stars": 22097,
+                "stars": 22104,
                 "topics": [
                   "frida",
                   "instrumentation",
@@ -1871,7 +1871,7 @@
             {
               "node_type": "item",
               "title": "Cutter - GUI for Radare2",
-              "description": null,
+              "description": "rizinorg/cutter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1884,7 +1884,7 @@
                 "open_issues": 497,
                 "owner": "rizinorg",
                 "repo": "cutter",
-                "stars": 19859,
+                "stars": 19857,
                 "topics": [
                   "cutter",
                   "debugger",
@@ -1898,7 +1898,7 @@
             {
               "node_type": "item",
               "title": "Angr - Binary Analysis",
-              "description": null,
+              "description": "angr/angr",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1907,8 +1907,8 @@
                 "id": 40328394,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-02T13:13:50Z",
-                "open_issues": 741,
+                "last_commit": "2026-10-03T04:03:07Z",
+                "open_issues": 745,
                 "owner": "angr",
                 "repo": "angr",
                 "stars": 9123,
@@ -1923,7 +1923,7 @@
             {
               "node_type": "item",
               "title": "RetDec - Decompiler",
-              "description": null,
+              "description": "avast/retdec",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1936,7 +1936,7 @@
                 "open_issues": 458,
                 "owner": "avast",
                 "repo": "retdec",
-                "stars": 8636,
+                "stars": 8635,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:44.850Z"
@@ -1944,7 +1944,7 @@
             {
               "node_type": "item",
               "title": "Diaphora - Binary Diffing",
-              "description": null,
+              "description": "joxeankoret/diaphora",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1965,7 +1965,7 @@
             {
               "node_type": "item",
               "title": "Ret-sync",
-              "description": null,
+              "description": "bootleg/ret-sync",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1978,7 +1978,7 @@
                 "open_issues": 31,
                 "owner": "bootleg",
                 "repo": "ret-sync",
-                "stars": 2392,
+                "stars": 2393,
                 "topics": [
                   "binaryninja",
                   "debugger",
@@ -1995,7 +1995,7 @@
             {
               "node_type": "item",
               "title": "Ghidriff - Ghidra Binary Diffing Engine",
-              "description": null,
+              "description": "clearbluejar/ghidriff",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2008,7 +2008,7 @@
                 "open_issues": 35,
                 "owner": "clearbluejar",
                 "repo": "ghidriff",
-                "stars": 807,
+                "stars": 808,
                 "topics": [
                   "binary-diffing",
                   "bindiff",
@@ -2025,7 +2025,7 @@
                 {
                   "node_type": "item",
                   "title": "Debugger Ghidra Class",
-                  "description": null,
+                  "description": "NationalSecurityAgency/ghidra",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2038,7 +2038,7 @@
                     "open_issues": 1973,
                     "owner": "NationalSecurityAgency",
                     "repo": "ghidra",
-                    "stars": 80304,
+                    "stars": 80366,
                     "topics": [
                       "disassembler",
                       "reverse-engineering",
@@ -2098,7 +2098,7 @@
                 {
                   "node_type": "item",
                   "title": "Deep Learning UDF for MQTT IoT Anomaly Detection",
-                  "description": null,
+                  "description": "kaiwaehner/ksql-udf-deep-learning-mqtt-iot",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2147,7 +2147,7 @@
                 {
                   "node_type": "item",
                   "title": "Scapy CoAP Plugin",
-                  "description": null,
+                  "description": "secdev/scapy",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2156,11 +2156,11 @@
                     "id": 43509302,
                     "language": "Python",
                     "license": "GPL-2.0",
-                    "last_commit": "2026-10-01T18:46:16Z",
-                    "open_issues": 140,
+                    "last_commit": "2026-10-02T16:16:06Z",
+                    "open_issues": 139,
                     "owner": "secdev",
                     "repo": "scapy",
-                    "stars": 12578,
+                    "stars": 12580,
                     "topics": [
                       "hacktoberfest",
                       "network",
@@ -2184,7 +2184,7 @@
                 {
                   "node_type": "item",
                   "title": "libcoap CLI Tools",
-                  "description": null,
+                  "description": "obgm/libcoap",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2205,7 +2205,7 @@
                 {
                   "node_type": "item",
                   "title": "Copper4Cr - CoAP User-Agent for Chrome",
-                  "description": null,
+                  "description": "mkovatsc/Copper4Cr",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2233,7 +2233,7 @@
                 {
                   "node_type": "item",
                   "title": "Raspberry Pi / Arduino + 6LoWPAN",
-                  "description": null,
+                  "description": "contiki-ng/contiki-ng",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2275,7 +2275,7 @@
             {
               "node_type": "item",
               "title": "Awesome Industrial Protocols",
-              "description": null,
+              "description": "Orange-Cyberdefense/awesome-industrial-protocols",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2311,7 +2311,7 @@
                 {
                   "node_type": "item",
                   "title": "Prowler - Cloud Security Assessment",
-                  "description": null,
+                  "description": "prowler-cloud/prowler",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2321,10 +2321,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-02T12:22:52Z",
-                    "open_issues": 388,
+                    "open_issues": 391,
                     "owner": "prowler-cloud",
                     "repo": "prowler",
-                    "stars": 14913,
+                    "stars": 14917,
                     "topics": [
                       "aws",
                       "azure",
@@ -2353,7 +2353,7 @@
                 {
                   "node_type": "item",
                   "title": "ScoutSuite - Multi-cloud Security Auditing",
-                  "description": null,
+                  "description": "nccgroup/ScoutSuite",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2381,7 +2381,7 @@
                 {
                   "node_type": "item",
                   "title": "Pacu - AWS Exploitation Framework",
-                  "description": null,
+                  "description": "RhinoSecurityLabs/pacu",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2408,7 +2408,7 @@
                 {
                   "node_type": "item",
                   "title": "S3Scanner - Leaky Bucket Discovery",
-                  "description": null,
+                  "description": "sa7mon/S3Scanner",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2421,7 +2421,7 @@
                     "open_issues": 41,
                     "owner": "sa7mon",
                     "repo": "S3Scanner",
-                    "stars": 3175,
+                    "stars": 3174,
                     "topics": [
                       "aws",
                       "bugbounty",
@@ -2436,7 +2436,7 @@
                 {
                   "node_type": "item",
                   "title": "CloudFox - Cloud Attack Paths",
-                  "description": null,
+                  "description": "BishopFox/cloudfox",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2449,7 +2449,7 @@
                     "open_issues": 10,
                     "owner": "BishopFox",
                     "repo": "cloudfox",
-                    "stars": 2589,
+                    "stars": 2591,
                     "topics": [
                       "aws",
                       "cloud",
@@ -2464,7 +2464,7 @@
                 {
                   "node_type": "item",
                   "title": "Cloudfoxable Labs",
-                  "description": null,
+                  "description": "BishopFox/cloudfoxable",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2485,7 +2485,7 @@
                 {
                   "node_type": "item",
                   "title": "AWS Security Pentesting Resources",
-                  "description": null,
+                  "description": "redskycyber/Cloud-Security",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2517,7 +2517,7 @@
                 {
                   "node_type": "item",
                   "title": "PayloadsAllTheThings - AWS Pentest",
-                  "description": null,
+                  "description": "swisskyrepo/PayloadsAllTheThings",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2530,7 +2530,7 @@
                     "open_issues": 36,
                     "owner": "swisskyrepo",
                     "repo": "PayloadsAllTheThings",
-                    "stars": 81413,
+                    "stars": 81425,
                     "topics": [
                       "bounty",
                       "bugbounty",
@@ -2574,7 +2574,7 @@
             {
               "node_type": "item",
               "title": "Awesome Vehicle Security",
-              "description": null,
+              "description": "jaredthecoder/awesome-vehicle-security",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2587,7 +2587,7 @@
                 "open_issues": 7,
                 "owner": "jaredthecoder",
                 "repo": "awesome-vehicle-security",
-                "stars": 4679,
+                "stars": 4681,
                 "topics": [
                   "automotive",
                   "awesome",
@@ -2608,7 +2608,7 @@
             {
               "node_type": "item",
               "title": "Awesome CAN Bus - Curated Resources",
-              "description": null,
+              "description": "iDoka/awesome-canbus",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2621,7 +2621,7 @@
                 "open_issues": 8,
                 "owner": "iDoka",
                 "repo": "awesome-canbus",
-                "stars": 3488,
+                "stars": 3491,
                 "topics": [
                   "automotive",
                   "automotive-security",
@@ -2650,7 +2650,7 @@
             {
               "node_type": "item",
               "title": "Subaru Head Unit Jailbreak",
-              "description": null,
+              "description": "sgayou/subaru-starlink-research",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2855,7 +2855,7 @@
                 {
                   "node_type": "item",
                   "title": "RouterSploit",
-                  "description": null,
+                  "description": "threat9/routersploit",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2868,7 +2868,7 @@
                     "open_issues": 98,
                     "owner": "threat9",
                     "repo": "routersploit",
-                    "stars": 13258,
+                    "stars": 13257,
                     "topics": [
                       "bruteforce",
                       "creds",
@@ -2890,7 +2890,7 @@
                 {
                   "node_type": "item",
                   "title": "PRET - Printer Exploitation Toolkit",
-                  "description": null,
+                  "description": "RUB-NDS/PRET",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2903,7 +2903,7 @@
                     "open_issues": 73,
                     "owner": "RUB-NDS",
                     "repo": "PRET",
-                    "stars": 4312,
+                    "stars": 4311,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:49:44.850Z"
@@ -2911,7 +2911,7 @@
                 {
                   "node_type": "item",
                   "title": "Firmware Analysis Toolkit (FAT)",
-                  "description": null,
+                  "description": "attify/firmware-analysis-toolkit",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2944,7 +2944,7 @@
                 {
                   "node_type": "item",
                   "title": "HomePwn",
-                  "description": null,
+                  "description": "Telefonica/HomePWN",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -2972,7 +2972,7 @@
                 {
                   "node_type": "item",
                   "title": "HAL - Hardware Analyzer",
-                  "description": null,
+                  "description": "emsec/hal",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3002,7 +3002,7 @@
                 {
                   "node_type": "item",
                   "title": "ISF - Industrial Security Framework",
-                  "description": null,
+                  "description": "w3h/isf",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3031,7 +3031,7 @@
                 {
                   "node_type": "item",
                   "title": "PENIOT",
-                  "description": null,
+                  "description": "yakuza8/peniot",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3068,7 +3068,7 @@
                 {
                   "node_type": "item",
                   "title": "BlueSploit",
-                  "description": null,
+                  "description": "V33RU/bluesploit",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3103,7 +3103,7 @@
                 {
                   "node_type": "item",
                   "title": "Samsung Firmware Magic",
-                  "description": null,
+                  "description": "chrivers/samsung-firmware-magic",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3142,7 +3142,7 @@
             {
               "node_type": "item",
               "title": "Syzkaller - Kernel Fuzzer",
-              "description": null,
+              "description": "google/syzkaller",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3152,7 +3152,7 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T10:23:01Z",
-                "open_issues": 632,
+                "open_issues": 635,
                 "owner": "google",
                 "repo": "syzkaller",
                 "stars": 6334,
@@ -3173,7 +3173,7 @@
             {
               "node_type": "item",
               "title": "Boofuzz",
-              "description": null,
+              "description": "jtpereyda/boofuzz",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3198,7 +3198,7 @@
             {
               "node_type": "item",
               "title": "parking-game-fuzzer",
-              "description": null,
+              "description": "addisoncrump/parking-game-fuzzer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3221,7 +3221,7 @@
                 {
                   "node_type": "item",
                   "title": "FuzzingPaper Collection",
-                  "description": null,
+                  "description": "wcventure/FuzzingPaper",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3254,7 +3254,7 @@
                 {
                   "node_type": "item",
                   "title": "Awesome Embedded Fuzzing",
-                  "description": null,
+                  "description": "andreia-oca/awesome-embedded-fuzzing",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3291,7 +3291,7 @@
                 {
                   "node_type": "item",
                   "title": "Dr. Memory",
-                  "description": null,
+                  "description": "DynamoRIO/drmemory",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3312,7 +3312,7 @@
                 {
                   "node_type": "item",
                   "title": "AFL Training Exercises",
-                  "description": null,
+                  "description": "mykter/afl-training",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3338,7 +3338,7 @@
                 {
                   "node_type": "item",
                   "title": "Frankenstein - Broadcom/Cypress Firmware Emulation for Fuzzing",
-                  "description": null,
+                  "description": "seemoo-lab/frankenstein",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3379,7 +3379,7 @@
             {
               "node_type": "item",
               "title": "AttifyOS",
-              "description": null,
+              "description": "adi0x90/attifyos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3409,7 +3409,7 @@
             {
               "node_type": "item",
               "title": "Instant GNU Radio OS",
-              "description": null,
+              "description": "bastibl/instant-gnuradio",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3435,7 +3435,7 @@
             {
               "node_type": "item",
               "title": "EmbedOS",
-              "description": null,
+              "description": "scriptingxss/EmbedOS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3470,7 +3470,7 @@
             {
               "node_type": "item",
               "title": "Recon-ng",
-              "description": null,
+              "description": "lanmaster53/recon-ng",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3483,7 +3483,7 @@
                 "open_issues": 39,
                 "owner": "lanmaster53",
                 "repo": "recon-ng",
-                "stars": 5950,
+                "stars": 5952,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:44.850Z"
@@ -3504,7 +3504,7 @@
             {
               "node_type": "item",
               "title": "THC's favourite Tips, Tricks & Hacks",
-              "description": null,
+              "description": "hackerschoice/thc-tips-tricks-hacks-cheat-sheet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3525,7 +3525,7 @@
             {
               "node_type": "item",
               "title": "Pentest Hardware Handbook",
-              "description": null,
+              "description": "unprovable/PentestHardware",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3546,7 +3546,7 @@
             {
               "node_type": "item",
               "title": "Hardware Hacking Cheatsheet",
-              "description": null,
+              "description": "arunmagesh/hw_hacking_cheatsheet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3567,7 +3567,7 @@
             {
               "node_type": "item",
               "title": "Nmap Tutorial",
-              "description": null,
+              "description": "gnebbia/nmap_tutorial",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3602,7 +3602,7 @@
             {
               "node_type": "item",
               "title": "IoT Vulnerabilities with CVE and PoC",
-              "description": null,
+              "description": "z1r00/IOT_Vul",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3630,7 +3630,7 @@
             {
               "node_type": "item",
               "title": "Awesome Embedded Systems Vulnerability Research",
-              "description": null,
+              "description": "IamAlch3mist/Awesome-Embedded-Systems-Vulnerability-Research",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3660,7 +3660,7 @@
                 {
                   "node_type": "item",
                   "title": "Ultimate Hardware Hacking Gear Guide",
-                  "description": null,
+                  "description": "jcldf/ultimate-hardware-hacking-gear-guide-",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3706,7 +3706,7 @@
             {
               "node_type": "item",
               "title": "ARM-X CTF",
-              "description": null,
+              "description": "therealsaumil/emux",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3735,7 +3735,7 @@
             {
               "node_type": "item",
               "title": "BLE CTF",
-              "description": null,
+              "description": "hackgnar/ble_ctf",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3756,7 +3756,7 @@
             {
               "node_type": "item",
               "title": "DVID - Damn Vulnerable IoT Device",
-              "description": null,
+              "description": "Vulcainreo/DVID",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3777,7 +3777,7 @@
             {
               "node_type": "item",
               "title": "IoTGoat - Vulnerable OpenWrt Firmware",
-              "description": null,
+              "description": "scriptingxss/IoTGoat",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3800,7 +3800,7 @@
                 {
                   "node_type": "item",
                   "title": "Hardware Hacking 101",
-                  "description": null,
+                  "description": "rdomanski/hardware_hacking",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3828,7 +3828,7 @@
                 {
                   "node_type": "item",
                   "title": "Damn Vulnerable Chemical Process",
-                  "description": null,
+                  "description": "satejnik/DVCP-TE",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3861,7 +3861,7 @@
             {
               "node_type": "item",
               "title": "RHme Series (2015-2017)",
-              "description": null,
+              "description": "Riscure/RHme-2015",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3884,7 +3884,7 @@
                 {
                   "node_type": "item",
                   "title": "RHme-2016",
-                  "description": null,
+                  "description": "Riscure/Rhme-2016",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3905,7 +3905,7 @@
                 {
                   "node_type": "item",
                   "title": "RHme-2017",
-                  "description": null,
+                  "description": "Riscure/Rhme-2017",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3944,7 +3944,7 @@
             {
               "node_type": "item",
               "title": "Besder IP Camera Security Analysis",
-              "description": null,
+              "description": "KostasEreksonas/Besder-6024PB-XMA501-ip-camera-security-investigation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3995,7 +3995,7 @@
                 {
                   "node_type": "item",
                   "title": "lexmark printer haxx",
-                  "description": null,
+                  "description": "blasty/lexmark",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -4028,7 +4028,7 @@
             {
               "node_type": "item",
               "title": "TEE Reversing",
-              "description": null,
+              "description": "enovella/TEE-reversing",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4063,7 +4063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T15:44:35.532Z",
+    "last_updated": "2026-10-03T04:38:55.243Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Curated list of Security Resources for all connected things",
@@ -4075,7 +4075,7 @@
       "open_issues": 3,
       "owner": "V33RU",
       "repo": "awesome-connected-things-sec",
-      "stars": 3552,
+      "stars": 3551,
       "topics": [
         "automotive-security",
         "awesome",
