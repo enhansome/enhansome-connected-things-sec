@@ -247,7 +247,7 @@
                     "open_issues": 44,
                     "owner": "bettercap",
                     "repo": "bettercap",
-                    "stars": 20149,
+                    "stars": 20150,
                     "topics": [
                       "ble",
                       "deauthentication-attack",
@@ -573,7 +573,7 @@
                     "open_issues": 53,
                     "owner": "greatscottgadgets",
                     "repo": "ubertooth",
-                    "stars": 2148,
+                    "stars": 2149,
                     "topics": [
                       "bluetooth",
                       "hardware",
@@ -639,7 +639,7 @@
                     "open_issues": 30,
                     "owner": "mikeryan",
                     "repo": "ice9-bluetooth-sniffer",
-                    "stars": 446,
+                    "stars": 447,
                     "topics": [
                       "bladerf",
                       "ble-sniffer",
@@ -911,7 +911,7 @@
                 "open_issues": 2,
                 "owner": "W00t3k",
                 "repo": "Awesome-Cellular-Hacking",
-                "stars": 4067,
+                "stars": 4068,
                 "topics": [
                   "eviltwin",
                   "gsm",
@@ -938,10 +938,10 @@
                 "language": "C",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-16T12:18:19Z",
-                "open_issues": 308,
+                "open_issues": 309,
                 "owner": "open5gs",
                 "repo": "open5gs",
-                "stars": 2771,
+                "stars": 2773,
                 "topics": [
                   "3gpp",
                   "4g",
@@ -973,7 +973,7 @@
                 "open_issues": 26,
                 "owner": "SysSec-KAIST",
                 "repo": "LTESniffer",
-                "stars": 2246,
+                "stars": 2247,
                 "topics": [
                   "cellular",
                   "lte",
@@ -1258,7 +1258,7 @@
                 "open_issues": 100,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14493,
+                "stars": 14499,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:44.850Z"
@@ -1407,7 +1407,7 @@
                 "open_issues": 0,
                 "owner": "binarly-io",
                 "repo": "fwhunt-scan",
-                "stars": 246,
+                "stars": 245,
                 "topics": [
                   "efi-guid",
                   "efi-protocols",
@@ -1439,11 +1439,11 @@
                 "id": 41107037,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-16T13:32:46Z",
-                "open_issues": 231,
+                "last_commit": "2026-10-17T12:55:08Z",
+                "open_issues": 223,
                 "owner": "unicorn-engine",
                 "repo": "unicorn",
-                "stars": 9454,
+                "stars": 9461,
                 "topics": [
                   "arm",
                   "arm64",
@@ -1483,7 +1483,7 @@
                 "open_issues": 115,
                 "owner": "qilingframework",
                 "repo": "qiling",
-                "stars": 6140,
+                "stars": 6139,
                 "topics": [
                   "analysis",
                   "binary",
@@ -1512,11 +1512,11 @@
                 "id": 95903234,
                 "language": "RobotFramework",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-16T13:23:16Z",
+                "last_commit": "2026-10-16T14:16:40Z",
                 "open_issues": 467,
                 "owner": "renode",
                 "repo": "renode",
-                "stars": 3031,
+                "stars": 3035,
                 "topics": [
                   "arm",
                   "embedded-systems",
@@ -1541,7 +1541,7 @@
                 "id": 12330872,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-09T20:51:57Z",
+                "last_commit": "2026-10-17T12:49:12Z",
                 "open_issues": 97,
                 "owner": "panda-re",
                 "repo": "panda",
@@ -1589,8 +1589,8 @@
                 "id": 528991306,
                 "language": "C++",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-10-16T13:11:13Z",
-                "open_issues": 76,
+                "last_commit": "2026-10-17T11:50:51Z",
+                "open_issues": 78,
                 "owner": "bochs-emu",
                 "repo": "Bochs",
                 "stars": 1382,
@@ -1784,11 +1784,11 @@
                     "id": 59771425,
                     "language": "C",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-16T12:53:32Z",
-                    "open_issues": 4400,
+                    "last_commit": "2026-10-16T20:53:08Z",
+                    "open_issues": 4432,
                     "owner": "zephyrproject-rtos",
                     "repo": "zephyr",
-                    "stars": 16807,
+                    "stars": 16813,
                     "topics": [
                       "bluetooth",
                       "bluetooth-le",
@@ -1830,11 +1830,11 @@
                 "id": 173228436,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T12:02:03Z",
-                "open_issues": 2113,
+                "last_commit": "2026-10-16T16:52:06Z",
+                "open_issues": 2105,
                 "owner": "NationalSecurityAgency",
                 "repo": "ghidra",
-                "stars": 89344,
+                "stars": 89959,
                 "topics": [
                   "disassembler",
                   "reverse-engineering",
@@ -1855,11 +1855,11 @@
                 "id": 9405122,
                 "language": "Meson",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-16T13:37:59Z",
+                "last_commit": "2026-10-17T10:54:44Z",
                 "open_issues": 1973,
                 "owner": "frida",
                 "repo": "frida",
-                "stars": 22324,
+                "stars": 22339,
                 "topics": [
                   "frida",
                   "instrumentation",
@@ -1884,7 +1884,7 @@
                 "open_issues": 499,
                 "owner": "rizinorg",
                 "repo": "cutter",
-                "stars": 20035,
+                "stars": 20045,
                 "topics": [
                   "cutter",
                   "debugger",
@@ -1907,11 +1907,11 @@
                 "id": 40328394,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-16T07:07:13Z",
-                "open_issues": 763,
+                "last_commit": "2026-10-17T12:38:36Z",
+                "open_issues": 766,
                 "owner": "angr",
                 "repo": "angr",
-                "stars": 9194,
+                "stars": 9206,
                 "topics": [
                   "analysis",
                   "angr",
@@ -1936,7 +1936,7 @@
                 "open_issues": 468,
                 "owner": "avast",
                 "repo": "retdec",
-                "stars": 8649,
+                "stars": 8650,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:44.850Z"
@@ -1957,7 +1957,7 @@
                 "open_issues": 28,
                 "owner": "joxeankoret",
                 "repo": "diaphora",
-                "stars": 4429,
+                "stars": 4430,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:44.850Z"
@@ -2034,11 +2034,11 @@
                     "id": 173228436,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-15T12:02:03Z",
-                    "open_issues": 2113,
+                    "last_commit": "2026-10-16T16:52:06Z",
+                    "open_issues": 2105,
                     "owner": "NationalSecurityAgency",
                     "repo": "ghidra",
-                    "stars": 89344,
+                    "stars": 89959,
                     "topics": [
                       "disassembler",
                       "reverse-engineering",
@@ -2157,10 +2157,10 @@
                     "language": "Python",
                     "license": "GPL-2.0",
                     "last_commit": "2026-10-11T00:35:34Z",
-                    "open_issues": 146,
+                    "open_issues": 148,
                     "owner": "secdev",
                     "repo": "scapy",
-                    "stars": 12609,
+                    "stars": 12615,
                     "topics": [
                       "hacktoberfest",
                       "network",
@@ -2193,8 +2193,8 @@
                     "id": 39396258,
                     "language": "C",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-16T13:14:20Z",
-                    "open_issues": 56,
+                    "last_commit": "2026-10-17T12:33:06Z",
+                    "open_issues": 54,
                     "owner": "obgm",
                     "repo": "libcoap",
                     "stars": 920,
@@ -2273,6 +2273,224 @@
         {
           "children": [
             {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "mtls-intercept",
+                  "description": "Reverse proxy that dynamically signs client certs to MITM full mTLS sessions github.com/fungaren/mtls-intercept",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A reverse proxy to decrypt mTLS protected traffics.",
+                    "homepage": null,
+                    "id": 734624417,
+                    "language": "Go",
+                    "license": "NOASSERTION",
+                    "last_commit": "2024-01-29T07:02:52Z",
+                    "open_issues": 0,
+                    "owner": "fungaren",
+                    "repo": "mtls-intercept",
+                    "stars": 3,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-17T12:55:16.327Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "SSLsplit",
+                  "description": "Transparent mTLS proxy - forward extracted device cert to complete mutual handshake with cloud github.com/droe/sslsplit",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Transparent SSL/TLS interception",
+                    "homepage": "https://www.roe.ch/SSLsplit",
+                    "id": 3942762,
+                    "language": "C",
+                    "license": "BSD-2-Clause",
+                    "last_commit": "2025-10-27T11:48:33Z",
+                    "open_issues": 76,
+                    "owner": "droe",
+                    "repo": "sslsplit",
+                    "stars": 1878,
+                    "topics": [
+                      "c",
+                      "http",
+                      "https",
+                      "nat",
+                      "sni",
+                      "ssl",
+                      "sslsplit",
+                      "starttls",
+                      "tls",
+                      "tls-interception",
+                      "transparent-proxy"
+                    ]
+                  },
+                  "first_seen": "2026-10-17T12:55:16.327Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Objection",
+                  "description": "Android sslpinning disable - strips mTLS pinning in companion apps github.com/sensepost/objection",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "📱 objection - runtime mobile exploration",
+                    "homepage": null,
+                    "id": 95770373,
+                    "language": "Python",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-09-17T07:20:15Z",
+                    "open_issues": 58,
+                    "owner": "sensepost",
+                    "repo": "objection",
+                    "stars": 9448,
+                    "topics": [
+                      "android",
+                      "framework",
+                      "frida",
+                      "instrumentation",
+                      "ios",
+                      "mobile",
+                      "pentest",
+                      "security"
+                    ]
+                  },
+                  "first_seen": "2026-10-17T12:55:16.327Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "apk-mitm",
+                  "description": "Statically patches IoT companion APK to disable mTLS cert pinning github.com/shroudedcode/apk-mitm",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "🤖 A CLI application that automatically prepares Android APK files for HTTPS inspection",
+                    "homepage": "https://npm.im/apk-mitm",
+                    "id": 213055485,
+                    "language": "TypeScript",
+                    "license": "MIT",
+                    "last_commit": "2024-07-24T18:34:52Z",
+                    "open_issues": 83,
+                    "owner": "niklashigi",
+                    "repo": "apk-mitm",
+                    "stars": 5130,
+                    "topics": [
+                      "android",
+                      "apk",
+                      "apktool",
+                      "certificate-pinning",
+                      "cli",
+                      "man-in-the-middle",
+                      "mitm",
+                      "reverse-engineering"
+                    ]
+                  },
+                  "first_seen": "2026-10-17T12:55:16.327Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "MagiskTrustUserCerts",
+                  "description": "Moves custom CA to system store on rooted Android POS/kiosk to complete mTLS MITM github.com/NVISOsecurity/MagiskTrustUserCerts",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A Magisk/KernelSU module that automatically adds user certificates to the system root CA store",
+                    "homepage": null,
+                    "id": 114384112,
+                    "language": "Shell",
+                    "license": null,
+                    "last_commit": "2025-06-24T06:52:33Z",
+                    "open_issues": 10,
+                    "owner": "NVISOsecurity",
+                    "repo": "AlwaysTrustUserCerts",
+                    "stars": 2589,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-17T12:55:16.327Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "frida-multiple-unpinning",
+                  "description": "Universal Frida script targeting 20+ mTLS/pinning patterns in hardened IoT apps github.com/httptoolkit/frida-android-unpinning",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Frida scripts to rewrite mobile applications at runtime to directly MitM all HTTPS traffic",
+                    "homepage": "https://httptoolkit.com/android/",
+                    "id": 382066956,
+                    "language": "JavaScript",
+                    "license": "AGPL-3.0",
+                    "last_commit": "2026-10-14T07:29:19Z",
+                    "open_issues": 78,
+                    "owner": "httptoolkit",
+                    "repo": "frida-interception-and-unpinning",
+                    "stars": 2318,
+                    "topics": [
+                      "android",
+                      "certificate",
+                      "frida",
+                      "interception",
+                      "mitm"
+                    ]
+                  },
+                  "first_seen": "2026-10-17T12:55:16.327Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "NEU-SNS/IoTLS",
+                  "description": "IMC'21 research repo - SSLKEYLOGFILE files to decrypt MITM'd mTLS connections across 32 devices github.com/NEU-SNS/IoTLS",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Repository for IMC'21 paper on TLS for IoT devices",
+                    "homepage": null,
+                    "id": 407532652,
+                    "language": "Roff",
+                    "license": null,
+                    "last_commit": "2021-09-29T01:51:38Z",
+                    "open_issues": 0,
+                    "owner": "NEU-SNS",
+                    "repo": "IoTLS",
+                    "stars": 6,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-17T12:55:16.327Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "mitmrouter",
+                  "description": "Linux-based IoT traffic interception router - intercepts device TLS at network level github.com/nmatt0/mitmrouter",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Bash script to automate setup of Linux router useful for IoT device traffic analysis and SSL mitm",
+                    "homepage": null,
+                    "id": 793259091,
+                    "language": "Shell",
+                    "license": "MIT",
+                    "last_commit": "2026-05-26T12:55:51Z",
+                    "open_issues": 4,
+                    "owner": "nmatt0",
+                    "repo": "mitmrouter",
+                    "stars": 789,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-17T12:55:16.327Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Tools"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "mTLS"
+        },
+        {
+          "children": [
+            {
               "node_type": "item",
               "title": "Awesome Industrial Protocols",
               "description": "Orange-Cyberdefense/awesome-industrial-protocols",
@@ -2288,7 +2506,7 @@
                 "open_issues": 2,
                 "owner": "Orange-Cyberdefense",
                 "repo": "awesome-industrial-protocols",
-                "stars": 776,
+                "stars": 777,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:44.850Z"
@@ -2321,10 +2539,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-16T09:14:47Z",
-                    "open_issues": 470,
+                    "open_issues": 478,
                     "owner": "prowler-cloud",
                     "repo": "prowler",
-                    "stars": 15043,
+                    "stars": 15048,
                     "topics": [
                       "aws",
                       "azure",
@@ -2366,7 +2584,7 @@
                     "open_issues": 297,
                     "owner": "nccgroup",
                     "repo": "ScoutSuite",
-                    "stars": 7851,
+                    "stars": 7852,
                     "topics": [
                       "auditing",
                       "aws",
@@ -2446,10 +2664,10 @@
                     "language": "Go",
                     "license": "MIT",
                     "last_commit": "2026-08-20T18:39:52Z",
-                    "open_issues": 10,
+                    "open_issues": 9,
                     "owner": "BishopFox",
                     "repo": "cloudfox",
-                    "stars": 2606,
+                    "stars": 2605,
                     "topics": [
                       "aws",
                       "cloud",
@@ -2530,7 +2748,7 @@
                     "open_issues": 38,
                     "owner": "swisskyrepo",
                     "repo": "PayloadsAllTheThings",
-                    "stars": 81779,
+                    "stars": 81793,
                     "topics": [
                       "bounty",
                       "bugbounty",
@@ -2587,7 +2805,7 @@
                 "open_issues": 7,
                 "owner": "jaredthecoder",
                 "repo": "awesome-vehicle-security",
-                "stars": 4706,
+                "stars": 4710,
                 "topics": [
                   "automotive",
                   "awesome",
@@ -2621,7 +2839,7 @@
                 "open_issues": 10,
                 "owner": "iDoka",
                 "repo": "awesome-canbus",
-                "stars": 3508,
+                "stars": 3510,
                 "topics": [
                   "automotive",
                   "automotive-security",
@@ -2903,7 +3121,7 @@
                     "open_issues": 73,
                     "owner": "RUB-NDS",
                     "repo": "PRET",
-                    "stars": 4314,
+                    "stars": 4316,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:49:44.850Z"
@@ -2937,34 +3155,6 @@
                       "reverse-engineering",
                       "security",
                       "vulnerability-scanner"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T20:49:44.850Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "HomePwn",
-                  "description": "Telefonica/HomePWN",
-                  "children": [],
-                  "repo_info": {
-                    "archived": true,
-                    "description": "HomePwn - Swiss Army Knife for Pentesting of IoT Devices",
-                    "homepage": "https://github.com/ElevenPaths/HomePWN",
-                    "id": 201017254,
-                    "language": "Python",
-                    "license": "GPL-3.0",
-                    "last_commit": "2022-12-27T15:37:06Z",
-                    "open_issues": 5,
-                    "owner": "Telefonica",
-                    "repo": "HomePWN",
-                    "stars": 933,
-                    "topics": [
-                      "archived",
-                      "ble",
-                      "hack",
-                      "iot",
-                      "nfc",
-                      "python"
                     ]
                   },
                   "first_seen": "2026-08-28T20:49:44.850Z"
@@ -3151,7 +3341,7 @@
                 "id": 44087204,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T13:50:21Z",
+                "last_commit": "2026-10-16T14:02:43Z",
                 "open_issues": 637,
                 "owner": "google",
                 "repo": "syzkaller",
@@ -3186,7 +3376,7 @@
                 "open_issues": 101,
                 "owner": "jtpereyda",
                 "repo": "boofuzz",
-                "stars": 2363,
+                "stars": 2364,
                 "topics": [
                   "fuzzing",
                   "python",
@@ -3483,7 +3673,7 @@
                 "open_issues": 39,
                 "owner": "lanmaster53",
                 "repo": "recon-ng",
-                "stars": 5993,
+                "stars": 5996,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:44.850Z"
@@ -3517,7 +3707,7 @@
                 "open_issues": 5,
                 "owner": "hackerschoice",
                 "repo": "thc-tips-tricks-hacks-cheat-sheet",
-                "stars": 3900,
+                "stars": 3901,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:44.850Z"
@@ -3538,7 +3728,7 @@
                 "open_issues": 2,
                 "owner": "unprovable",
                 "repo": "PentestHardware",
-                "stars": 507,
+                "stars": 508,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:44.850Z"
@@ -3639,7 +3829,7 @@
                 "id": 660468797,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-10-03T08:49:26Z",
+                "last_commit": "2026-10-17T04:36:10Z",
                 "open_issues": 0,
                 "owner": "IamAlch3mist",
                 "repo": "Awesome-Embedded-Systems-Vulnerability-Research",
@@ -4063,7 +4253,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T13:54:55.303Z",
+    "last_updated": "2026-10-17T12:55:16.327Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Curated list of Security Resources for all connected things",
@@ -4071,11 +4261,11 @@
       "id": 133933655,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-08-29T06:10:09Z",
+      "last_commit": "2026-10-16T17:48:41Z",
       "open_issues": 3,
       "owner": "V33RU",
       "repo": "awesome-connected-things-sec",
-      "stars": 3559,
+      "stars": 3560,
       "topics": [
         "automotive-security",
         "awesome",
@@ -4094,9 +4284,9 @@
         "wireless-security"
       ]
     },
-    "original_repository_sha": "6c6b2c3ad0b452548f286a508ba1d7c6a979c884",
+    "original_repository_sha": "0015dcee55cc0cd6eff3b4afbada2f22c245a9cc",
     "enhanced_repository": "enhansome/enhansome-connected-things-sec",
     "enhanced_repository_description": null,
-    "title": "Awesome connected things sec with stars"
+    "title": "Awesome Connected Things Security with stars"
   }
 }
